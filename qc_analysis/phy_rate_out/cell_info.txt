@@ -1,0 +1,1 @@
+PCI=404 DL_ARFCN= BW=MHz

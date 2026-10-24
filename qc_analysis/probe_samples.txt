@@ -1,0 +1,135 @@
+=== 0xB888 ===
+2026 Oct  9  07:52:26.237  [EF]  0xB888  NR5G MAC PDSCH Stats
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 2
+Log Fields Change BMask = 0x0
+Num Records = 1
+Num Total Slots = 662514
+Num CA = 1
+Cumulative Bitmask = 0x01
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|   |          |Num Slots |Num PDSCH |Num CRC   |Num CRC   |          |ACK As    |HARQ      |                    |                    |                    |                    |                    |          |
+|#  |Carrier ID|Elapsed   |Decode    |Pass TB   |Fail TB   |Num ReTx  |NACK      |Failure   |CRC Pass TB Bytes   |CRC Fail TB Bytes   |TB Bytes            |Padding Bytes       |ReTx Bytes          |BLER      |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  0|         0|    662514|      5387|      5063|       324|       465|         0|         2|              369423|               47767|              417190|              185060|               58629|      6.01|
+
+
+
+=== 0xB842 ===
+2026 Oct  9  07:52:26.238  [91]  0xB842  NR5G PDCP DL Rbs Stats
+Subscription ID = 1
+Misc ID         = 0
+Version = 6
+Num RB = 3
+RB Stats
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |      |    |           |          |      |       |          |                    |Num       |          |Num       |Num       |Num Miss  |          |                    |          |          |Num       |Num       |          |          |          |          |          |          |
+   |   |RB    |    |           |          |Pdcp  |Is RB  |Num Data  |                    |Control   |Control   |Control   |Control   |PDU To    |Num       |                    |          |Num       |Reorder   |Reorder   |          |          |          |Num       |Num IP    |Num Packet|
+   |   |Config|RB  |Num        |T         |Hdr   |Flow   |PDU       |Data PDU Bytes      |PDU       |PDU Bytes |PDU       |PDU Bytes |Upper     |Duplicate |                    |Num Out Of|Invalid   |Timer     |Timer     |          |          |          |Integrity |Packet    |Length    |
+   |#  |Index |Mode|Reestablish|Reordering|length|Enabled|Received  |Received            |Received  |Received  |Generated |Generated |Layer     |PDU       |Dropped PDU Bytes   |Win PDU   |PDU       |Expire    |Start     |RX Reorder|RX Next   |RX Deliv  |Fail      |Error     |Error     |
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|    33|   1|          0|     65535|     2|      0|         1|                  17|         0|         0|         0|         0|         0|         0|                   0|         0|         0|         0|         0|         0|         1|         1|         0|         0|         0|
+   |  1|     4|   1|          0|       100|     3|      1|       110|                9848|         1|         5|         0|         0|         0|         0|                  72|         1|         0|         0|         0|      1026|      1390|      1390|         0|         0|         0|
+   |  2|    34|   1|          0|     65535|     2|      0|         0|                   0|         0|         0|         0|         0|         0|         0|                   0|         0|         0|         0|         0|         0|         0|         0|         0|         0|         0|
+
+
+
+=== 0xB857 ===
+2026 Oct  9  07:52:26.296  [D9]  0xB857  NR5G L2 DL DATA PDU
+Subscription ID = 1
+Misc ID         = 0
+Version = 6
+Common State Cfg
+   Num TB = 1
+   Last Processed TS = 0
+   Num LCID = 3
+   Reason = 0
+   RB Config
+      ------------------------------------------------------------------------------------------------------------------------------------------
+      |   |      |        |    |        |     |    |    |        |                         |RLC State var                                      |
+      |   |      |        |RLC |        |RLC  |    |PDCP|        |                         |            |Rx Next     |            |            |
+      |   |      |        |SN  |RLC SN  |RB   |RB  |SN  |PDCP SN |PDCP State Var           |            |Status      |Rx Highest  |Rx Next     |
+      |#  |LCID  |RLC Mode|Bits|Length  |Index|Type|Bits|Length  |Rx Next     |Next IPA    |Rx Next     |Trigger     |Status      |Highest     |
+      ------------------------------------------------------------------------------------------------------------------------------------------
+      |  0|     1|      AM|   1|      12|    1| SRB|   0|      12|           0|           0|           1|           0|           1|           1|
+      |  1|     4|      AM|   2|      18|    4| DRB|   1|      18|        1390|        1390|         111|           0|         111|         111|
+      |  2|     2|      AM|   1|      12|    2| SRB|   0|      12|           0|           0|           0|           0|           0|           0|
+
+TB Data Agg
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |                                                         |Combined Headers                                                                                                                                                                                                                    |
+   |   |                                                         |                    |RLC PDU Header                                                                                                                                |                                                      |    |    |
+   |   |                                                         |                    |          |            |             |Subheader 4 |Subheader 5   |Subheader 6  |                   |Subheader 8       |Subheader 9            |PDCP PDU Header                                       |    |    |
+   |   |TB Common Info                                           |                    |          |Subheader 2 |Subheader 3  |   |   |SO  |  |      |SO  |   | |  |SN  |Subheader 7        |   | |  |SN  |SO  |  | |  |          |SO  |           |Subheader 2  |Subheader 3  |Subheader 4   |    |    |
+   |   |          |System Time  |Num       |     |TB  |Num Logged|MAC PDU Header      |          |     |SN 6  |      |SN 12 |   |   |16  |  |SN 12 |16  |DC | |  |12  |DC | |  |          |DC | |  |12  |16  |  | |  |          |16  |           |      |SN 12 |      |SN 18 |      |PDU    |    |Poll|
+   |#  |TB Size   |Slot|Frame   |Subheaders|CA ID|Path|Subheaders|LCID|Fill|L8 |L16   |SI        |SI   |Bit   |SI    |Bits  |SI |SN |Bits|SI|Bits  |Bits|Bit|P|SI|Bits|Bit|P|SI|SN 18 Bits|Bit|P|SI|Bits|Bits|DC|P|SI|SN 18 Bits|Bits|SN 12 Bits |DC Bit|Bits  |DC Bit|Bits  |DC Bit|Type   |Mask|Bit |
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|        40|  10|     996|         1|    0|  IU|         1|   4|   0|  3|      |          |     |      |      |      |   |   |    |  |      |    |   | |  |    |   | |  |          |   | |  |    |    |  | |  |          |    |           |      |      |      |      |     0|      0|   0|   0|
+
+
+
+=== 0xB84D ===
+2026 Oct  9  07:52:26.328  [3D]  0xB84D  NR5G RLC DL Stats
+Subscription ID = 1
+Misc ID         = 0
+Version = 4
+Num RB = 3
+Reason = 0
+Num FC Down Commands = 0
+Num FC Up Commands = 0
+Num Shutdown Issued = 0
+Num RLF Issued = 13
+Num FC Level1 Down Commands = 0
+Num FC Level1 Up Commands = 0
+Num Scell TA Start = 0
+Num Scell TA Stop = 0
+Num Scell FC Start = 0
+Num Scell FC Stop = 0
+Num RF Available = 0
+Num FC RX Win = 0
+Last RLF = 12737731
+Num FC Level1 Inc Segs Dropped = { 0, 0, 0, 0 }
+Num FC Level1 History Index = 0
+Num FC Shutdown Inc Segs Dropped = 0
+RB Stats
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |RB    |    |            |            |            |            |Num         |            |            |            |            |            |            |            |Num         |Num         |            |Num Status  |Num Status  |Num Status  |Num Status  |          |          |          |
+   |   |Config|RB  |            |Num Status  |Num Invalid |            |Duplicate   |Num Dropped |Num Segment |Num Segment |Num Status  |Num Status  |Num Status  |Num Status  |Reassembly  |Reassembly  |Num Missed  |Trigger Ack |Trigger Nack|Update Ack  |Update Nack |Num Status|Num Status|RLC Data  |
+   |#  |Index |Mode|Num Data PDU|Rxed        |PDUs        |Num ReTx PDU|PDU         |PDU         |Join        |Collapse    |Trigger     |Update      |OTA         |PDU Drop    |Expired     |Start       |UM PDU      |SN Only     |List        |SN Only     |List        |Ackd      |Nack Lists|Bytes     |
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|    33|   1|           1|          23|           0|           0|           0|           0|           0|           0|           1|           0|           1|           1|           0|           0|           0|           1|           0|           0|           0|        23|         0|        19|
+   |  1|     4|   1|         117|        1309|           0|           0|           0|           5|           2|           0|          77|           4|          77|           0|           0|           0|           0|          77|           0|           0|           0|      1307|         2|     10183|
+   |  2|    34|   1|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|           0|         0|         0|         0|
+
+
+
+=== 0xB886 ===
+2026 Oct  9  07:52:26.415  [BE]  0xB886  NR5G MAC DL TB Report
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor = 2. 5
+Log Fields Change BM = 0
+Sub ID = 0
+Num Records = 1
+Records[0]
+   fr_sl
+      slot = 10
+      numerology = 1
+      frame = 1012
+   num_ca = 1
+   dl_mce[0]
+      Carrier Id = 0
+      MCE Bitmask = TCI_STATE_IND_UE_PDCCH_MCE
+      tci_state_pdcch[0]
+         Num CA = 1
+         CC Info
+            --------------------------------------
+            |   |  |       |               |TCI  |
+            |   |CC|Serving|               |State|
+            |#  |ID|cell ID|CORESET ID     |ID   |
+            --------------------------------------
+            |  0| 0|      0|            10b|    0|
+
+
+

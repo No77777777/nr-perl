@@ -1,0 +1,2 @@
+0xB873 -- NR5G L2 UL BSR
+total: 1 types (pattern: 'NR5G.*BSR')

@@ -1,0 +1,331 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LC_ALL = "C.UTF-8",
+	(possibly more locale environment variables)
+	LANG = "C"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+packets: 5816202
+start: Thu Oct 22 01:16:16 2026 dur: 13681570.6936884s
+===== SAMPLE 0xB842 =====
+2026 Oct 22  01:16:20.301  [CB]  0xB842  NR5G PDCP DL Rbs Stats
+Subscription ID = 1
+Misc ID         = 0
+Version = 6
+Num RB = 1
+RB Stats
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |      |    |           |          |      |       |          |                    |Num       |          |Num       |Num       |Num Miss  |          |                    |          |          |Num       |Num       |          |          |          |          |          |          |
+   |   |RB    |    |           |          |Pdcp  |Is RB  |Num Data  |                    |Control   |Control   |Control   |Control   |PDU To    |Num       |                    |          |Num       |Reorder   |Reorder   |          |          |          |Num       |Num IP    |Num Packet|
+   |   |Config|RB  |Num        |T         |Hdr   |Flow   |PDU       |Data PDU Bytes      |PDU       |PDU Bytes |PDU       |PDU Bytes |Upper     |Duplicate |                    |Num Out Of|Invalid   |Timer     |Timer     |          |          |          |Integrity |Packet    |Length    |
+   |#  |Index |Mode|Reestablish|Reordering|length|Enabled|Received  |Received            |Received  |Received  |Generated |Generated |Layer     |PDU       |Dropped PDU Bytes   |Win PDU   |PDU       |Expire    |Start     |RX Reorder|RX Next   |RX Deliv  |Fail      |Error     |Error     |
+   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|     2|   1|          0|       200|     3|      1|         1|                  72|         0|         0|         0|         0|         0|         0|                   0|         0|         0|         0|         0|         0|         1|         1|         0|         0|         0|
+
+===== SAMPLE 0xB97F =====
+2026 Oct 22  01:16:20.621  [50]  0xB97F  NR5G ML1 Searcher Measurement Database Update Ext
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 8
+System Time
+   Slot Number = 0
+   SubFrame Number = 5
+   System Frame Number = 14
+   SCS  = DEFAULT
+Num Layers = 1
+SSB Periodicity Serv Cell = INVALID
+Frequency Offset = 2.441 PPM
+Timing Offset = 191831755
+Component Carrier List[0]
+   Raster ARFCN = 633984
+   Num Cells = 6
+   Serving Cell Index = 255
+   Serving Cell PCI = 65535
+   Serving SSB = NA
+   ServingRsrpRx23[0]
+      Serving RSRP Rx23 = NA
+   ServingRsrpRx23[1]
+      Serving RSRP Rx23 = NA
+   Serving RX Beam = { NA, NA }
+   Serving RFIC ID = NA
+   ServingSubarrayId[0]
+      SubArray ID = NA
+   ServingSubarrayId[1]
+      SubArray ID = NA
+   Cells
+      -----------------------------------------------------------------------------------------------------------------------------------------
+      |   |      |      |     |            |            |Detected Beams                                                                       |
+      |   |      |      |     |            |            |   |     |RX Beam Info           |NR2NR       |NR2NR       |L2NR        |L2NR        |
+      |   |      |PBCH  |Num  |Cell Quality|Cell Quality|   |SSB  |RX Beam|               |Filtered Tx |Filtered Tx |Filtered Tx |Filtered Tx |
+      |#  |PCI   |SFN   |Beams|RSRP        |RSRQ        |#  |Index|Id     |RSRP           |Beam RSRP L3|Beam RSRQ L3|Beam RSRP L3|Beam RSRQ L3|
+      -----------------------------------------------------------------------------------------------------------------------------------------
+      |  0|   401|   624|    1|    -112.375|     -14.734|  0|    1|     NA|       -112.375|          NA|          NA|    -112.375|     -14.734|
+      |   |      |      |     |            |            |   |     |     NA|       -122.492|            |            |            |            |
+      |  1|    65|   624|    1|    -121.547|     -15.141|  0|    3|     NA|       -125.008|          NA|          NA|    -121.547|     -15.141|
+      |   |      |      |     |            |            |   |     |     NA|       -121.547|            |            |            |            |
+      |  2|   710|   624|    1|    -119.656|     -15.492|  0|    2|     NA|       -120.945|          NA|          NA|    -119.656|     -15.492|
+      |   |      |      |     |            |            |   |     |     NA|       -119.656|            |            |            |            |
+      |  3|   525|   624|    1|    -115.633|     -15.945|  0|    2|     NA|       -115.633|          NA|          NA|    -115.633|     -15.945|
+      |   |      |      |     |            |            |   |     |     NA|       -122.102|            |            |            |            |
+      |  4|   457|   624|    1|    -115.164|     -14.813|  0|    5|     NA|       -115.164|          NA|          NA|    -115.164|     -14.813|
+      |   |      |      |     |            |            |   |     |     NA|       -120.625|            |            |            |            |
+      |  5|   709|   632|    1|    -118.906|     -15.672|  0|    6|     NA|       -118.906|          NA|          NA|    -118.906|     -15.672|
+      |   |      |      |     |            |            |   |     |     NA|       -122.836|            |            |            |            |
+
+===== SAMPLE 0xB860 =====
+2026 Oct 22  01:16:21.065  [2B]  0xB860  NR5G PDCP UL Stats
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 2
+Meta
+   Reason = RRC_RELEASE
+   Num RB Logged = 1
+   Cumulative SRB BMask = 0
+   Configured SRB BMask = 0
+   Cumulative DRB Bmask = 0
+   Configured DRB BMask = 2
+Cumulative RB Stats
+   Num PDCP Control PDUs = 0
+   Num Discard Packets = 0
+   Num Discard Bytes = 0
+   Num WM Flow Control
+      Total Count = 0
+      Count Low = 0
+      Count High = 0
+      Count Empty = 0
+      Count Non Empty = 0
+      Count DNE Bytes = 0
+   WM Dropped Packets = 0
+   WM Dropped Bytes = 0
+   Num PDCP HO ReTx Bytes = 0
+Records
+   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |  |    |    |       |          |          |          |                    |          |          |          |                    |                    |                    |                                   |             |Num    |
+   |   |  |    |    |       |          |          |          |                    |          |          |          |                    |                    |                    |Total WM Flow Control              |             |Total  |
+   |   |  |    |    |       |          |          |Total Num |                    |Current   |Current WM|          |                    |                    |                    |     |     |     |     |Count|Count|             |PDCP   |
+   |   |RB|RB  |RB  |PDCP SN|RB Path   |Current   |Discard   |Total Num Discard   |Num WM    |Drop      |Num RX    |                    |                    |Current WM Drop     |Total|Count|Count|Count|Non  |DNE  |             |Control|
+   |#  |ID|Type|Mode|Length |Type      |PDCP Count|Packets   |Bytes               |Packets   |Packets   |Packets   |Total Num RX Bytes  |Current Num WM Bytes|Bytes               |Count|Low  |High |Empty|Empty|Bytes|WM Flow state|PDUs   |
+   ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0| 2| DRB|  AM|     18|       LTE|         0|         0|                   0|         0|         0|         0|                   0|                   0|                   0|    0|    0|    0|    0|    0|    0|  LOW_ENABLED|      0|
+
+===== SAMPLE 0xB888 =====
+2026 Oct 22  01:16:21.221  [77]  0xB888  NR5G MAC PDSCH Stats
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 2
+Log Fields Change
+   DL Config = 116
+   UL Config = 4
+   ML1 State Change = 6
+Log Fields Change BMask = 0x70
+Num Records = 1
+Num Total Slots = 5
+Num CA = 1
+Cumulative Bitmask = 0x01
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|   |          |Num Slots |Num PDSCH |Num CRC   |Num CRC   |          |ACK As    |HARQ      |                    |                    |                    |                    |                    |          |
+|#  |Carrier ID|Elapsed   |Decode    |Pass TB   |Fail TB   |Num ReTx  |NACK      |Failure   |CRC Pass TB Bytes   |CRC Fail TB Bytes   |TB Bytes            |Padding Bytes       |ReTx Bytes          |BLER      |
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  0|         0|         5|         0|         0|         0|         0|         0|         0|                   0|                   0|                   0|                   0|                   0|        NA|
+
+===== SAMPLE 0xB8B5 =====
+2026 Oct 22  01:16:21.247  [E5]  0xB8B5  NR5G MAC Tx Pwr Dist Stats LOG
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 0
+Sub Id = 0
+Num Records = 1
+Tx Pwr Distribution Stats
+   --------------------------------------------------------
+   |Band Tx Power                                         |
+   |          |Below 6   |6 To 12   |12 To 18  |Above 18  |
+   |Band Index|dBm %     |dBm %     |dBm %     |dBm %     |
+   --------------------------------------------------------
+
+===== SAMPLE 0xB885 =====
+2026 Oct 22  01:16:21.248  [41]  0xB885  NR5G MAC DCI Info
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 12
+CPhy Log Fields Change LSB = 0
+CPhy Log Fields Change MSB = 12288
+CPhy Log Fields Change BM = 64
+Sub ID = 0
+Num Records = 1
+Records
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |                      |   |DCI Info                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+   |   |                      |   |       |              |              |         |   |          |          |          |                                                                                                                                                                                                        |                                                                                                                                                                     |TPC                                                                                |
+   |   |                      |   |       |              |              |         |   |          |          |          |                                                                                                                                                                                                        |DL                                                                                                                                                                   |      |                     |Per Target CA Info                                    |
+   |   |                      |   |       |              |              |         |   |          |          |          |UL                                                                                                                                                                                                      |         |          |   |         |          |TPC    |         |         |            |        |            |       |       |    |     |            |                |      |                     |       |CA Info                                       |
+   |   |System Time           |   |       |              |              |         |   |          |          |          |   |   |       |  |    |     |      |   |           |      |          |   |   |   |          |         |       |DMRS|       |       |     |        |    |   |                     |                     |         |          |   |         |          |Command|         |PDSCH    |            |        |            |       |       |    |     |            |                |      |                     |       |      |       |       |No        |      |     |
+   |   |      |        |System|   |       |              |              |         |Is |          |          |          |   |   |       |  |    |     |Symbol|   |           |Beta  |          |UL |   |   |SRS       |Precoding|       |Seq |       |       |     |Reserved|    |UL |                     |                     |Bandwidth|Time      |TB |TB 1 New |DL        |For    |PUCCH    |Harq     |CBG         |CBG     |            |       |       |    |     |DMRS Antenna|                |Num   |                     |Target |      |SRS    |       |Starting  |      |No   |
+   |   |Slot  |        |Frame |Num|Carrier|              |              |         |Raw|          |          |          |   |   |Freq   |  |HARQ|PUSCH|Alloc |BWP|PTRS DMRS  |Offset|RB        |SCH|DAI|DAI|Resource  |Layer    |Antenna|Init|SRS    |CSI    |     |MCS     |RA  |SUL|                     |                     |Part     |Resource  |1  |Data     |Assignment|Sched  |Resource |Feedback |Transmission|Flushing|Transmission|SRS    |Carrier|HARQ|ReTx |Port Table  |Prune Error     |Target|                     |Carrier|SRS   |Request|TPC    |Bit F23   |      |SRS  |
+   |#  |Number|SCS     |Number|DCI|ID     |RNTI Type     |DCI Format    |Agg Level|DCI|Raw DCI[2]|Raw DCI[1]|Raw DCI[0]|NDI|MCS|Hopping|RV|ID  |TPC  |Index |Ind|Association|Ind   |Assignment|Ind|1  |2  |Indication|Info     |Ports  |Flag|Request|Request|CBGTI|Enable  |Type|Ind|Prune Reason MSB     |Prune Error Bitmask  |Indicator|Assignment|MCS|Indicator|Index     |PUCCH  |Indicator|Indicator|Info        |Out Info|Config End  |Request|ID     |ID  |Count|Index       |Bitmask         |CA    |Prune Reason         |ID     |Type  |Value  |Command|Configured|Pruned|Bits |
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|    15|   30KHZ|   694|  1|      0|       SI_RNTI|        DL_1_0|  LEVEL 8|  0|          |          |          |   |   |       |  |    |     |      |   |           |      |          |   |   |   |          |         |       |    |       |       |     |        |    |   |                     |                     |        0|        11|  0|        0|         0|      0|        0|        0|           0|       0|           0|      0|      0|   0|    0|           3|            NONE|      |                     |       |      |       |       |          |      |     |
+
+===== SAMPLE 0xB823 =====
+2026 Oct 22  01:16:21.259  [BE]  0xB823  NR5G RRC Serving Cell Info
+Subscription ID = 1
+Misc ID         = 0
+Version = 4
+Physical Cell ID = 68
+DL Frequency = 627264
+UL Frequency = 626724
+DL Bandwidth = 100
+UL Bandwidth = 100
+Cell Id = 0x000000069051701E
+Selected PLMN MCC = 460
+Num MNC Digits = 2
+Selected PLMN MNC = 11
+Allowed Access  = 0
+TAC = 6884879
+Freq Band Indicator = 78
+
+===== SAMPLE 0xB883 =====
+2026 Oct 22  01:16:21.319  [06]  0xB883  NR5G MAC UL Physical Channel Schedule Report
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 17
+Records
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |                  |       |Carriers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+   |   |                  |       |       |                |                         |      |      |                                                                                                                                                                                                                                                                                                                                                                              |PUCCH Data                                                                                                                                                                                       |                                                                                                                                |                                                 |
+   |   |                  |       |       |                |                         |      |      |PUSCH Data                                                                                                                                                                                                                                                                                                                                                                    |     |Per PUCCH Data                                                                                                                                                                             |SRS Data                                                                                                                        |                                                 |
+   |   |                  |       |       |                |                         |      |      |       |      |       |    |   |               |    |     |      |    |       |                |      |         |        |     |           |   |     |                             |Num |Num |Num |         |     |     |   |       |   |    |    |      |    |          |        |   |        |     |          |     |      |          |     |      |     |     |            |     |       |                  |                             |     |     |     |        |   |Num |    |Num |Num |        |         |  |    |      |     |      |       |                 |      |   |Per SRS Data                                                                                                                |PRACH Data                                       |
+   |   |                  |       |       |                |                         |Dual  |      |Is     |      |       |    |   |               |DMRS|     |      |    |       |                |DMRS  |Antenna  |        |     |           |   |Code |                             |CSF |CSF |HARQ|         |K    |     |   |DMRS   |SRS|    |Freq|TX    |    |Data      |        |Num|        |RB   |          |     |      |DMRS      |DMRS |Beta  |TPC  |TPC  |            |     |Is     |                  |                             |TPC  |TPC  |Time |        |   |HARQ|Num |UCI |UCI |Spatial |Antenna  |  |    |DFT   |DFT  |      |       |                 |      |   |Is     |        |        |                       |      |     |        |       |Spatial |Antenna  |Spatial |SRS  |    |     |          |ZC  |        |      |          |ZC    |
+   |   |System Time       |Num    |Carrier|                |                         |Pol   |CDD   |Second |Start |Num    |HARQ|   |               |Add |RB   |Num   |RA  |Mapping|                |Config|Switch   |        |RV   |           |BWP|Rate |                             |P1  |P2  |ACK |Transform|Prime|ZC   |Num|Symbol |Res|CB  |Hop |Slot  |    |Scrambling|DMRS    |Gap|DMRS    |Start|Modulation|RNTI |CDM   |Scrambling|PTRS |Offset|Accum|Accum|            |NUM  |Second |                  |                             |Accum|Accum|Occ  |Starting|Num|ACK |SR  |P1  |P2  |Relation|Switch   |  |I   |OCC   |OCC  |Start |Num    |                 |Second|Num|Second |Resource|Resource|                       |Config|Num  |Starting|Num    |Relation|Switch   |Relation|TPC  |Num |Re   |Resource  |Root|Preamble|Symbol|          |Cyclic|
+   |#  |Slot|SCS   |Frame |Carrier|ID     |RNTI Type       |Phychan Bit Mask         |Status|Status|Phychan|Symbol|Symbols|ID  |MCS|MCS Table      |Pos |Start|RBs   |Type|Type   |TB Size (bytes) |Type  |Indicator|TX Mode |Index|TX Type    |Id |(Q11)|UCI Request Mask             |Bits|Bits|Bits|Precoding|Value|Value|CBs|Bitmask|Ind|Size|Flag|Offset|TPMI|Selection |Ports[0]|RBs|Ports[1]|Hop  |Order     |Value|Groups|Selection |Assoc|Ind   |0    |1    |RBG Bitmap  |PUCCH|Phychan|PUCCH Format      |UCI Request BMask            |0    |1    |Index|RB      |RB |Bits|Bits|Bits|Bits|Id      |Indicator|M0|DMRS|Length|Index|symbol|Symbols|Freq Hopping Flag|Hop RB|SRS|Phychan|Set Id  |Id      |Res Config Type        |Index |Ports|Symbol  |Symbols|Type    |Indicator|Info    |Accum|Hops|start|Allocation|Seq |Format  |Offset|Numerology|Shift |
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|  18| 30KHZ|   701|      1|      0|              NA|                    PRACH|     0|     0|       |      |       |    |   |               |    |     |      |    |       |                |      |         |        |     |           |   |     |                             |    |    |    |         |     |     |   |       |   |    |    |      |    |          |        |   |        |     |          |     |      |          |     |      |     |     |            |     |       |                  |                             |     |     |     |        |   |    |    |    |    |        |         |  |    |      |     |      |       |                 |      |   |       |        |        |                       |      |     |        |       |        |         |        |     |    |     |        11| 731|       0|     0|     30KHZ|  5121|
+
+===== SAMPLE 0xB89B =====
+2026 Oct 22  01:16:21.331  [41]  0xB89B  NR5G MAC UCI Information
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor = 2. 2
+Log Fields Change BMask = 0x0000
+Num Records = 1
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|   |                     |   |UCI Info                                                                                                                                               |
+|   |                     |   |Common                                                                   |                                                |             |              |
+|   |                     |   |          |       |      |       |                    |    |   |   |Total|HARQ Data                                       |             |              |
+|   |                     |   |          |       |      |       |                    |    |   |   |HARQ |       |    |      |    |Is   |Is  |      |Is   |SR Data      |CSF Data      |
+|   |System Time          |Num|          |Carrier|Start |Num    |                    |Num |Num|Num|ACK  |Carrier|HARQ|Bit   |Num |CRC  |CRC |CRC   |PDSCH|     |SR     |Carrier|Report|
+|#  |Slot|Numerology|Frame|UCI|Channel   |ID     |Symbol|Symbols|UCI Request Bitmask |HARQ|SR |CSF|Bits |Id     |Id  |Offset|Bits|Valid|Late|Status|Valid|SR Id|Request|Id     |Id    |
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|  0|   4|    30 KHZ|  703|  1|PUCCH_FMT1|      0|     0|     14|            ACK_NACK|   1|  0|  0|    1|      0|   0|     0|   1|    1|   0|     1|    1|     |       |       |      |
+
+===== SAMPLE 0xB872 =====
+2026 Oct 22  01:16:21.338  [85]  0xB872  NR5G L2 UL TB
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor Version = 2. 1
+Meta
+   Num TTI = 1
+TTI Info
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |                 |TB Info                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+   |   |                 |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |McePayload                                                                                                                                                            |
+   |   |TTI Info Meta    |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |        |      |Mc4Phr                                  |Mc1Phr                            |Short OR Short|Long OR Long Truncated|     |            |BitrateMce       |
+   |   |Sys Time     |   |          |    |       |          |      |Start|Num     |End  |           |           |                    |                    |                                                            |                                 |                    |          |      |        |      |          |Type 1 PCell  |SCell         |    |Type 1 PCell  |SCell         |Truncated Bsr |Bsr                   |     |SinglePhr   |    |UL|       | |
+   |   |Slot  |      |Num|          |Harq|Carrier|          |RNTI  |PDU  |Complete|PDU  |           |           |                    |                    |                                                            |                                 |                    |PHR Cancel|MCE   |        |      |          |  | | |Pcmax| |  | | |Pcmax| |    |  | | |Pcmax| |  | | |Pcmax| |        |BSR  |                |BSR  |     | |  |Pcmax| |    |Or|Bitrate| |
+   |#  |Number|FN    |TB |Numerology|ID  |ID     |TB Type   |Type  |Seg  |PDU     |Seg  |Grant Size |Bytes Built|MCE Req Bitmask     |MCE Built Bitmask   |PHR Reason                                                  |BSR Reason                       |BSR Type            |Reason    |Length|MCE Type|Length|CxR       |PH|V|P|fc   |R|PH|V|P|fc   |R|CxR |PH|V|P|fc   |R|PH|V|P|fc   |R|BSR LCG |Index|LCGx            |Index|CRNTI|P|PH|fc   |R|LCID|DL|Index  |X|
+   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|    14|   702|  1|    30 KHZ|   0|      0|     IRACH|C_RNTI|false|       0|false|         15|          7|                   0|                   0|                                                            |                                 |                    |          |     7|      52|      |          |  | | |     | |  | | |     | |    |  | | |     | |  | | |     | |        |     |                |     |     | |  |     | |    |  |       | |
+   |   |      |      |   |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |       0|      |          |  | | |     | |  | | |     | |    |  | | |     | |  | | |     | |        |     |                |     |     | |  |     | |    |  |       | |
+   |   |      |      |   |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |      24|      |          |  | | |     | |  | | |     | |    |  | | |     | |  | | |     | |        |     |                |     |     | |  |     | |    |  |       | |
+   |   |      |      |   |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |      44|      |          |  | | |     | |  | | |     | |    |  | | |     | |  | | |     | |        |     |                |     |     | |  |     | |    |  |       | |
+   |   |      |      |   |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |  C-RNTI|      |          |  | | |     | |  | | |     | |    |  | | |     | |  | | |     | |        |     |                |     |    6| |  |     | |    |  |       | |
+   |   |      |      |   |          |    |       |          |      |     |        |     |           |           |                    |                    |                                                            |                                 |                    |          |      |        |      |          |  | | |     | |  | | |     | |    |  | | |     | |  | | |     | |        |     |                |     |   70| |  |     | |    |  |       | |
+
+===== SAMPLE 0xB8D8 =====
+2026 Oct 22  01:16:21.357  [58]  0xB8D8  NR5G LL1 LOG SERVING SNR
+Subscription ID = 1
+Misc ID         = 0
+Major Version = 2
+Minor Version = 1
+Starting SFN = 694
+Sub FN = 1
+Cell Id = 68
+Carrier Index = 0
+Reference Signal = SSB
+RX[0]
+   SNR = -30.10 dB
+RX[1]
+   SNR = -3.46 dB
+RX[2]
+   SNR = NA
+RX[3]
+   SNR = NA
+
+===== SAMPLE 0xB857 =====
+2026 Oct 22  01:16:21.630  [5E]  0xB857  NR5G L2 DL DATA PDU
+Subscription ID = 1
+Misc ID         = 0
+Version = 6
+Common State Cfg
+   Num TB = 1
+   Last Processed TS = 0
+   Num LCID = 1
+   Reason = 0
+   RB Config
+      ------------------------------------------------------------------------------------------------------------------------------------------
+      |   |      |        |    |        |     |    |    |        |                         |RLC State var                                      |
+      |   |      |        |RLC |        |RLC  |    |PDCP|        |                         |            |Rx Next     |            |            |
+      |   |      |        |SN  |RLC SN  |RB   |RB  |SN  |PDCP SN |PDCP State Var           |            |Status      |Rx Highest  |Rx Next     |
+      |#  |LCID  |RLC Mode|Bits|Length  |Index|Type|Bits|Length  |Rx Next     |Next IPA    |Rx Next     |Trigger     |Status      |Highest     |
+      ------------------------------------------------------------------------------------------------------------------------------------------
+      |  0|     1|      AM|   1|      12|    1| SRB|   0|      12|           0|           0|           0|           0|           0|           0|
+
+TB Data Agg
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |   |                                                         |Combined Headers                                                                                                                                                                                                                    |
+   |   |                                                         |                    |RLC PDU Header                                                                                                                                |                                                      |    |    |
+   |   |                                                         |                    |          |            |             |Subheader 4 |Subheader 5   |Subheader 6  |                   |Subheader 8       |Subheader 9            |PDCP PDU Header                                       |    |    |
+   |   |TB Common Info                                           |                    |          |Subheader 2 |Subheader 3  |   |   |SO  |  |      |SO  |   | |  |SN  |Subheader 7        |   | |  |SN  |SO  |  | |  |          |SO  |           |Subheader 2  |Subheader 3  |Subheader 4   |    |    |
+   |   |          |System Time  |Num       |     |TB  |Num Logged|MAC PDU Header      |          |     |SN 6  |      |SN 12 |   |   |16  |  |SN 12 |16  |DC | |  |12  |DC | |  |          |DC | |  |12  |16  |  | |  |          |16  |           |      |SN 12 |      |SN 18 |      |PDU    |    |Poll|
+   |#  |TB Size   |Slot|Frame   |Subheaders|CA ID|Path|Subheaders|LCID|Fill|L8 |L16   |SI        |SI   |Bit   |SI    |Bits  |SI |SN |Bits|SI|Bits  |Bits|Bit|P|SI|Bits|Bit|P|SI|SN 18 Bits|Bit|P|SI|Bits|Bits|DC|P|SI|SN 18 Bits|Bits|SN 12 Bits |DC Bit|Bits  |DC Bit|Bits  |DC Bit|Type   |Mask|Bit |
+   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+   |  0|        42|   7|     731|         1|    0|  IU|         1|   1|   0|  3|      |          |     |      |      |      |   |   |    |  |      |    |   | |  |    |   | |  |          |   | |  |    |    |  | |  |          |    |           |      |      |      |      |     0|      0|   0|   0|
+
+===== SAMPLE 0xB8A7 =====
+2026 Oct 22  01:16:23.696  [87]  0xB8A7  NR5G MAC CSF Report
+Subscription ID = 1
+Misc ID         = 0
+Major.Minor = 2. 3
+Log Fields Change BMask = 0x0000
+Num Records = 1
+Records[0]
+   Timestamp
+      Slot = 14
+      Numerology = 30kHz
+      Frame = 939
+   Num CSF Reports = 1
+   Num CSF Type2 Reports = 0
+   Reports
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      |   |       |        |      |          |                    |    |     |    |    |Num |Num |       |       |       |       |       |Quantities                                                                                                                         |
+      |   |       |        |      |          |                    |    |     |    |Num |CSI |CSI |       |       |       |       |       |CSI                                                                                  |RSRP                                         |
+      |   |       |        |      |          |                    |    |     |Num |CSI |P2  |P2  |       |       |       |P2 SB  |P2 SB  |Metrics                                           |Bit Width                         |        |CRI  |     |Diff |       |    |     |
+      |   |       |Resource|      |          |                    |    |     |CSI |P2  |SB  |SB  |       |       |       |Odd    |Even   |   |  |   |        |        |  |   |SB Result     |   |  |       |   |PMI |PMI|  |PMI|        |SSBRI|RSRP |RSRP |       |    |     |
+      |   |Carrier|Carrier |Report|Report    |Report Quantity     |Late|Faked|P1  |WB  |Odd |Even|Report |P1     |P2 WB  |Report |Report |   |  |WB |PMI WB  |PMI WB  |  |Num|   |SB|SB |SB |   |  |Zero   |WB |WB  |WB |  |SB |Resource|Bit  |Bit  |Bit  |Num    |    |SSBRI|
+      |#  |ID     |ID      |ID    |Type      |Bitmask             |CSF |CSF  |Bits|Bits|Bits|Bits|Dropped|Dropped|Dropped|Dropped|Dropped|CRI|RI|CQI|X1      |X2      |LI|SB |#  |ID|CQI|PMI|CRI|RI|Padding|CQI|X1  |X2 |LI|X2 |Set ID  |Width|Width|Width|Results|RSRP|CRI  |
+      ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      |  0|      0|       0|     0|  PERIODIC|      CRI:RI:PMI:CQI|   0|    0|  15|   0|   0|   0|      0|      0|      0|      0|      0|  3| 1|  3|      56|       1| 0|  0|   |  |   |   |  2| 2|      0|  4|   6|  1| 0|  0|        |     |     |     |       |    |     |
+
+iterated: 84772
+0xB888	23547	NR5G MAC PDSCH Stats
+0xB883	18594	NR5G MAC UL Physical Channel Schedule Report
+0xB885	13459	NR5G MAC DCI Info
+0xB89B	11406	NR5G MAC UCI Information
+0xB8D8	10636	NR5G LL1 LOG SERVING SNR
+0xB8A7	3156	NR5G MAC CSF Report
+0xB857	1375	NR5G L2 DL DATA PDU
+0xB97F	840	NR5G ML1 Searcher Measurement Database Update Ext
+0xB872	761	NR5G L2 UL TB
+0xB842	532	NR5G PDCP DL Rbs Stats
+0xB860	332	NR5G PDCP UL Stats
+0xB8B5	124	NR5G MAC Tx Pwr Dist Stats LOG
+0xB823	10	NR5G RRC Serving Cell Info

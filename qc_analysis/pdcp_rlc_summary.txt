@@ -1,0 +1,1393 @@
+PDCP	28346.325	RB4	count=4120	discard=0/0B	RXpkt=4129	RXbytes=986575	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+PDCP	28346.825	RB4	count=4130	discard=0/0B	RXpkt=4137	RXbytes=988063	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28347.325	RB4	count=4138	discard=0/0B	RXpkt=4145	RXbytes=989551	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28347.825	RB4	count=4146	discard=0/0B	RXpkt=4154	RXbytes=991225	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28348.325	RB4	count=4162	discard=0/0B	RXpkt=4174	RXbytes=998139	WMpkt=5	WMbytes=1321	state=LOW_ENABLED
+PDCP	28348.825	RB4	count=4178	discard=0/0B	RXpkt=4185	RXbytes=999873	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28349.325	RB4	count=4186	discard=0/0B	RXpkt=4194	RXbytes=1001547	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28349.825	RB4	count=4194	discard=0/0B	RXpkt=4202	RXbytes=1003035	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28350.325	RB4	count=4207	discard=0/0B	RXpkt=4214	RXbytes=1005151	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28350.825	RB4	count=4215	discard=0/0B	RXpkt=4223	RXbytes=1006825	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28351.325	RB4	count=4223	discard=0/0B	RXpkt=4231	RXbytes=1008313	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28351.825	RB4	count=4231	discard=0/0B	RXpkt=4239	RXbytes=1009801	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28352.325	RB4	count=4239	discard=0/0B	RXpkt=4247	RXbytes=1011289	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28352.825	RB4	count=4249	discard=0/0B	RXpkt=4256	RXbytes=1012963	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28353.325	RB4	count=4257	discard=0/0B	RXpkt=4264	RXbytes=1014451	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28353.825	RB4	count=4265	discard=0/0B	RXpkt=4273	RXbytes=1016125	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28354.325	RB4	count=4273	discard=0/0B	RXpkt=4281	RXbytes=1017613	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28354.825	RB4	count=4282	discard=0/0B	RXpkt=4289	RXbytes=1019101	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28355.325	RB4	count=4293	discard=0/0B	RXpkt=4301	RXbytes=1021330	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28355.825	RB4	count=4302	discard=0/0B	RXpkt=4310	RXbytes=1022891	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28356.325	RB4	count=4310	discard=0/0B	RXpkt=4318	RXbytes=1024379	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28356.825	RB4	count=4319	discard=0/0B	RXpkt=4327	RXbytes=1026053	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28357.325	RB4	count=4327	discard=0/0B	RXpkt=4335	RXbytes=1027541	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28357.825	RB4	count=4335	discard=0/0B	RXpkt=4343	RXbytes=1029029	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28358.325	RB4	count=4343	discard=0/0B	RXpkt=4351	RXbytes=1030517	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28358.825	RB4	count=4353	discard=0/0B	RXpkt=4360	RXbytes=1032191	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28359.325	RB4	count=4361	discard=0/0B	RXpkt=4368	RXbytes=1033679	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28359.825	RB4	count=4369	discard=0/0B	RXpkt=4376	RXbytes=1035167	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28360.325	RB4	count=4381	discard=0/0B	RXpkt=4389	RXbytes=1037469	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28360.825	RB4	count=4390	discard=0/0B	RXpkt=4397	RXbytes=1038957	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28361.325	RB4	count=4398	discard=0/0B	RXpkt=4406	RXbytes=1040631	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28361.825	RB4	count=4406	discard=0/0B	RXpkt=4414	RXbytes=1042119	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28362.325	RB4	count=4414	discard=0/0B	RXpkt=4422	RXbytes=1043607	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28362.825	RB4	count=4423	discard=0/0B	RXpkt=4431	RXbytes=1045281	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28363.325	RB4	count=4431	discard=0/0B	RXpkt=4439	RXbytes=1046769	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28363.825	RB4	count=4439	discard=0/0B	RXpkt=4447	RXbytes=1048257	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28364.325	RB4	count=4440	discard=0/0B	RXpkt=4447	RXbytes=1048257	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28364.825	RB4	count=4440	discard=0/0B	RXpkt=4447	RXbytes=1048257	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28365.325	RB4	count=4443	discard=0/0B	RXpkt=4450	RXbytes=1048812	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28365.825	RB4	count=4444	discard=0/0B	RXpkt=4451	RXbytes=1048885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28366.325	RB4	count=4444	discard=0/0B	RXpkt=4451	RXbytes=1048885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28366.825	RB4	count=4444	discard=0/0B	RXpkt=4451	RXbytes=1048885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28367.325	RB4	count=4444	discard=0/0B	RXpkt=4451	RXbytes=1048885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28367.825	RB4	count=4444	discard=0/0B	RXpkt=4451	RXbytes=1048885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28368.325	RB4	count=4444	discard=0/0B	RXpkt=4451	RXbytes=1048885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28368.825	RB4	count=4450	discard=0/0B	RXpkt=4457	RXbytes=1049618	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28369.325	RB4	count=4450	discard=0/0B	RXpkt=4457	RXbytes=1049618	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28369.825	RB4	count=4451	discard=0/0B	RXpkt=4458	RXbytes=1049691	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28370.325	RB4	count=4451	discard=0/0B	RXpkt=4460	RXbytes=1049865	WMpkt=2	WMbytes=174	state=LOW_ENABLED
+PDCP	28370.825	RB4	count=4458	discard=0/0B	RXpkt=4465	RXbytes=1050977	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28371.325	RB4	count=4458	discard=0/0B	RXpkt=4465	RXbytes=1050977	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28371.825	RB4	count=4458	discard=0/0B	RXpkt=4465	RXbytes=1050977	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28372.325	RB4	count=4458	discard=0/0B	RXpkt=4465	RXbytes=1050977	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28372.825	RB4	count=4458	discard=0/0B	RXpkt=4465	RXbytes=1050977	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28373.325	RB4	count=4460	discard=0/0B	RXpkt=4467	RXbytes=1051421	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28373.825	RB4	count=4468	discard=0/0B	RXpkt=4476	RXbytes=1055114	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28374.325	RB4	count=4479	discard=0/0B	RXpkt=4486	RXbytes=1059154	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28374.825	RB4	count=4487	discard=0/0B	RXpkt=4494	RXbytes=1061772	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28375.325	RB4	count=4496	discard=0/0B	RXpkt=4503	RXbytes=1065741	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28375.825	RB4	count=4506	discard=0/0B	RXpkt=4514	RXbytes=1069884	WMpkt=1	WMbytes=711	state=LOW_ENABLED
+PDCP	28376.325	RB4	count=4516	discard=0/0B	RXpkt=4523	RXbytes=1073213	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28376.825	RB4	count=4526	discard=0/0B	RXpkt=4533	RXbytes=1076615	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28377.325	RB4	count=4535	discard=0/0B	RXpkt=4543	RXbytes=1080351	WMpkt=1	WMbytes=711	state=LOW_ENABLED
+PDCP	28377.825	RB4	count=4544	discard=0/0B	RXpkt=4552	RXbytes=1083680	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28378.325	RB4	count=4553	discard=0/0B	RXpkt=4560	RXbytes=1086936	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28378.825	RB4	count=4563	discard=0/0B	RXpkt=4570	RXbytes=1090672	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28379.325	RB4	count=4572	discard=0/0B	RXpkt=4579	RXbytes=1094001	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28379.825	RB4	count=4579	discard=0/0B	RXpkt=4587	RXbytes=1097591	WMpkt=1	WMbytes=741	state=LOW_ENABLED
+PDCP	28380.325	RB4	count=4589	discard=0/0B	RXpkt=4596	RXbytes=1100922	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28380.825	RB4	count=4599	discard=0/0B	RXpkt=4606	RXbytes=1104354	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28381.325	RB4	count=4606	discard=0/0B	RXpkt=4613	RXbytes=1107507	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28381.825	RB4	count=4613	discard=0/0B	RXpkt=4621	RXbytes=1111431	WMpkt=1	WMbytes=1045	state=LOW_ENABLED
+PDCP	28382.325	RB4	count=4624	discard=0/0B	RXpkt=4631	RXbytes=1114833	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28382.825	RB4	count=4632	discard=0/0B	RXpkt=4639	RXbytes=1118089	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28383.325	RB4	count=4641	discard=0/0B	RXpkt=4648	RXbytes=1121752	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28383.825	RB4	count=4648	discard=0/0B	RXpkt=4656	RXbytes=1124704	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28384.325	RB4	count=4657	discard=0/0B	RXpkt=4665	RXbytes=1128367	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28384.825	RB4	count=4665	discard=0/0B	RXpkt=4673	RXbytes=1131927	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28385.325	RB4	count=4675	discard=0/0B	RXpkt=4682	RXbytes=1134954	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28385.825	RB4	count=4682	discard=0/0B	RXpkt=4690	RXbytes=1138848	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28386.325	RB4	count=4690	discard=0/0B	RXpkt=4698	RXbytes=1141800	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28386.825	RB4	count=4700	discard=0/0B	RXpkt=4708	RXbytes=1145840	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28387.325	RB4	count=4707	discard=0/0B	RXpkt=4714	RXbytes=1148616	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28387.825	RB4	count=4717	discard=0/0B	RXpkt=4725	RXbytes=1152759	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28388.325	RB4	count=4728	discard=0/0B	RXpkt=4735	RXbytes=1156161	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28388.825	RB4	count=4735	discard=0/0B	RXpkt=4742	RXbytes=1159040	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28389.325	RB4	count=4745	discard=0/0B	RXpkt=4752	RXbytes=1163080	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28389.825	RB4	count=4752	discard=0/0B	RXpkt=4760	RXbytes=1166336	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28390.325	RB4	count=4762	discard=0/0B	RXpkt=4770	RXbytes=1169740	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+PDCP	28390.825	RB4	count=4770	discard=0/0B	RXpkt=4777	RXbytes=1173257	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28391.325	RB4	count=4777	discard=0/0B	RXpkt=4784	RXbytes=1176468	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28391.825	RB4	count=4784	discard=0/0B	RXpkt=4792	RXbytes=1180058	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28392.325	RB4	count=4793	discard=0/0B	RXpkt=4800	RXbytes=1183344	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28392.825	RB4	count=4801	discard=0/0B	RXpkt=4809	RXbytes=1186977	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28393.325	RB4	count=4810	discard=0/0B	RXpkt=4817	RXbytes=1190233	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28393.825	RB4	count=4817	discard=0/0B	RXpkt=4825	RXbytes=1193823	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28394.325	RB4	count=4826	discard=0/0B	RXpkt=4834	RXbytes=1197152	WMpkt=1	WMbytes=377	state=LOW_ENABLED
+PDCP	28394.825	RB4	count=4835	discard=0/0B	RXpkt=4842	RXbytes=1200408	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28395.325	RB4	count=4845	discard=0/0B	RXpkt=4852	RXbytes=1204146	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28395.825	RB4	count=4851	discard=0/0B	RXpkt=4859	RXbytes=1207663	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28396.325	RB4	count=4862	discard=0/0B	RXpkt=4869	RXbytes=1211065	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28396.825	RB4	count=4869	discard=0/0B	RXpkt=4876	RXbytes=1214248	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28397.325	RB4	count=4877	discard=0/0B	RXpkt=4884	RXbytes=1217504	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28397.825	RB4	count=4885	discard=0/0B	RXpkt=4893	RXbytes=1221501	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28398.325	RB4	count=4893	discard=0/0B	RXpkt=4901	RXbytes=1224119	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28398.825	RB4	count=4903	discard=0/0B	RXpkt=4910	RXbytes=1228086	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28399.325	RB4	count=4911	discard=0/0B	RXpkt=4918	RXbytes=1231342	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28399.825	RB4	count=4918	discard=0/0B	RXpkt=4926	RXbytes=1234932	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28400.325	RB4	count=4928	discard=0/0B	RXpkt=4935	RXbytes=1238263	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28400.825	RB4	count=4937	discard=0/0B	RXpkt=4944	RXbytes=1241926	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28401.325	RB4	count=4944	discard=0/0B	RXpkt=4951	RXbytes=1245109	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28401.825	RB4	count=4953	discard=0/0B	RXpkt=4961	RXbytes=1248845	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28402.325	RB4	count=4963	discard=0/0B	RXpkt=4971	RXbytes=1252277	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28402.825	RB4	count=4971	discard=0/0B	RXpkt=4979	RXbytes=1255837	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28403.325	RB4	count=4978	discard=0/0B	RXpkt=4986	RXbytes=1258716	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28403.825	RB4	count=4986	discard=0/0B	RXpkt=4994	RXbytes=1262276	WMpkt=1	WMbytes=741	state=LOW_ENABLED
+PDCP	28404.325	RB4	count=4993	discard=0/0B	RXpkt=5000	RXbytes=1265386	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28404.825	RB4	count=5002	discard=0/0B	RXpkt=5009	RXbytes=1269049	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28405.325	RB4	count=5010	discard=0/0B	RXpkt=5017	RXbytes=1272307	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28405.825	RB4	count=5015	discard=0/0B	RXpkt=5023	RXbytes=1275751	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28406.325	RB4	count=5025	discard=0/0B	RXpkt=5032	RXbytes=1279414	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28406.825	RB4	count=5033	discard=0/0B	RXpkt=5040	RXbytes=1282366	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28407.325	RB4	count=5042	discard=0/0B	RXpkt=5049	RXbytes=1285999	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28407.825	RB4	count=5051	discard=0/0B	RXpkt=5058	RXbytes=1289662	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28408.325	RB4	count=5059	discard=0/0B	RXpkt=5066	RXbytes=1292918	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28408.825	RB4	count=5067	discard=0/0B	RXpkt=5075	RXbytes=1296581	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28409.325	RB4	count=5076	discard=0/0B	RXpkt=5083	RXbytes=1299319	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28409.825	RB4	count=5083	discard=0/0B	RXpkt=5091	RXbytes=1303093	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28410.325	RB4	count=5093	discard=0/0B	RXpkt=5100	RXbytes=1306758	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28410.825	RB4	count=5101	discard=0/0B	RXpkt=5108	RXbytes=1310014	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28411.325	RB4	count=5109	discard=0/0B	RXpkt=5117	RXbytes=1313677	WMpkt=1	WMbytes=711	state=LOW_ENABLED
+PDCP	28411.825	RB4	count=5116	discard=0/0B	RXpkt=5123	RXbytes=1316453	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28412.325	RB4	count=5124	discard=0/0B	RXpkt=5132	RXbytes=1320450	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+PDCP	28412.825	RB4	count=5133	discard=0/0B	RXpkt=5140	RXbytes=1323706	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28413.325	RB4	count=5142	discard=0/0B	RXpkt=5149	RXbytes=1327369	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28413.825	RB4	count=5149	discard=0/0B	RXpkt=5157	RXbytes=1330625	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28414.325	RB4	count=5158	discard=0/0B	RXpkt=5165	RXbytes=1333881	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28414.825	RB4	count=5167	discard=0/0B	RXpkt=5174	RXbytes=1337210	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28415.325	RB4	count=5176	discard=0/0B	RXpkt=5184	RXbytes=1341061	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28415.825	RB4	count=5187	discard=0/0B	RXpkt=5195	RXbytes=1343093	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28416.325	RB4	count=5195	discard=0/0B	RXpkt=5203	RXbytes=1344581	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28416.825	RB4	count=5204	discard=0/0B	RXpkt=5211	RXbytes=1346069	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28417.325	RB4	count=5212	discard=0/0B	RXpkt=5219	RXbytes=1347557	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28417.825	RB4	count=5220	discard=0/0B	RXpkt=5228	RXbytes=1349231	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28418.325	RB4	count=5228	discard=0/0B	RXpkt=5236	RXbytes=1350719	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28418.825	RB4	count=5237	discard=0/0B	RXpkt=5244	RXbytes=1352207	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28419.325	RB4	count=5245	discard=0/0B	RXpkt=5253	RXbytes=1353881	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28419.825	RB4	count=5253	discard=0/0B	RXpkt=5261	RXbytes=1355369	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28420.325	RB4	count=5265	discard=0/0B	RXpkt=5274	RXbytes=1357671	WMpkt=2	WMbytes=259	state=LOW_ENABLED
+PDCP	28420.825	RB4	count=5275	discard=0/0B	RXpkt=5282	RXbytes=1359159	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28421.325	RB4	count=5283	discard=0/0B	RXpkt=5290	RXbytes=1360647	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28421.825	RB4	count=5291	discard=0/0B	RXpkt=5299	RXbytes=1362321	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28422.325	RB4	count=5299	discard=0/0B	RXpkt=5307	RXbytes=1363809	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28422.825	RB4	count=5308	discard=0/0B	RXpkt=5315	RXbytes=1365297	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28423.325	RB4	count=5316	discard=0/0B	RXpkt=5323	RXbytes=1366785	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28423.825	RB4	count=5324	discard=0/0B	RXpkt=5332	RXbytes=1368459	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28424.325	RB4	count=5332	discard=0/0B	RXpkt=5340	RXbytes=1369947	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28424.825	RB4	count=5341	discard=0/0B	RXpkt=5349	RXbytes=1371621	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28425.325	RB4	count=5352	discard=0/0B	RXpkt=5360	RXbytes=1373664	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28425.825	RB4	count=5361	discard=0/0B	RXpkt=5369	RXbytes=1375225	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28426.325	RB4	count=5369	discard=0/0B	RXpkt=5378	RXbytes=1376899	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+PDCP	28426.825	RB4	count=5379	discard=0/0B	RXpkt=5386	RXbytes=1378387	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28427.325	RB4	count=5387	discard=0/0B	RXpkt=5394	RXbytes=1379875	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28427.825	RB4	count=5395	discard=0/0B	RXpkt=5403	RXbytes=1381549	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28428.325	RB4	count=5403	discard=0/0B	RXpkt=5411	RXbytes=1383037	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28428.825	RB4	count=5412	discard=0/0B	RXpkt=5419	RXbytes=1384525	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28429.325	RB4	count=5430	discard=0/0B	RXpkt=5438	RXbytes=1392561	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28429.825	RB4	count=5440	discard=0/0B	RXpkt=5448	RXbytes=1394214	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28430.325	RB4	count=5450	discard=0/0B	RXpkt=5459	RXbytes=1396257	WMpkt=2	WMbytes=567	state=LOW_ENABLED
+PDCP	28430.825	RB4	count=5461	discard=0/0B	RXpkt=5469	RXbytes=1398004	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28431.325	RB4	count=5469	discard=0/0B	RXpkt=5477	RXbytes=1399492	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28431.825	RB4	count=5477	discard=0/0B	RXpkt=5485	RXbytes=1400980	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28432.325	RB4	count=5485	discard=0/0B	RXpkt=5493	RXbytes=1402468	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28432.825	RB4	count=5495	discard=0/0B	RXpkt=5502	RXbytes=1404142	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28433.325	RB4	count=5503	discard=0/0B	RXpkt=5510	RXbytes=1405630	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28433.825	RB4	count=5505	discard=0/0B	RXpkt=5512	RXbytes=1406002	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28434.325	RB4	count=5505	discard=0/0B	RXpkt=5513	RXbytes=1406105	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+PDCP	28434.825	RB4	count=5510	discard=0/0B	RXpkt=5517	RXbytes=1406680	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28435.325	RB4	count=5525	discard=0/0B	RXpkt=5532	RXbytes=1409396	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28435.825	RB4	count=5535	discard=0/0B	RXpkt=5543	RXbytes=1411216	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28436.325	RB4	count=5543	discard=0/0B	RXpkt=5551	RXbytes=1412704	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28436.825	RB4	count=5552	discard=0/0B	RXpkt=5559	RXbytes=1414192	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28437.325	RB4	count=5560	discard=0/0B	RXpkt=5568	RXbytes=1415866	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28437.825	RB4	count=5568	discard=0/0B	RXpkt=5576	RXbytes=1417354	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28438.325	RB4	count=5576	discard=0/0B	RXpkt=5584	RXbytes=1418842	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28438.629	RB4	count=5581	discard=0/0B	RXpkt=5589	RXbytes=1419772	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28438.629	RB4	count=5581	discard=0/0B	RXpkt=5589	RXbytes=1419772	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+PDCP	28438.680	RB4	count=5581	discard=0/0B	RXpkt=5590	RXbytes=1419958	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28438.680	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28438.680	RB4	count=0	discard=0/0B	RXpkt=2	RXbytes=372	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28438.825	LCID5	txNextAck=4	txNext=4	winPDU=0	txWinBytes=0	totalTxBytes=797	poll=2
+PDCP	28438.825	RB4	count=4	discard=0/0B	RXpkt=5	RXbytes=930	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28439.325	LCID5	txNextAck=12	txNext=12	winPDU=1	txWinBytes=186	totalTxBytes=2476	poll=10
+PDCP	28439.325	RB4	count=12	discard=0/0B	RXpkt=13	RXbytes=2418	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28439.825	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4221	poll=19
+PDCP	28439.825	RB4	count=21	discard=0/0B	RXpkt=21	RXbytes=3906	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28440.325	LCID5	txNextAck=32	txNext=32	winPDU=0	txWinBytes=0	totalTxBytes=6423	poll=28
+PDCP	28440.325	RB4	count=32	discard=0/0B	RXpkt=33	RXbytes=6135	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28440.825	LCID5	txNextAck=41	txNext=42	winPDU=1	txWinBytes=186	totalTxBytes=8320	poll=37
+PDCP	28440.825	RB4	count=42	discard=0/0B	RXpkt=42	RXbytes=7696	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28441.325	LCID5	txNextAck=50	txNext=50	winPDU=0	txWinBytes=0	totalTxBytes=9928	poll=45
+PDCP	28441.325	RB4	count=50	discard=0/0B	RXpkt=50	RXbytes=9184	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28441.825	LCID5	txNextAck=58	txNext=58	winPDU=0	txWinBytes=0	totalTxBytes=11536	poll=53
+PDCP	28441.825	RB4	count=58	discard=0/0B	RXpkt=59	RXbytes=10858	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28442.325	LCID5	txNextAck=67	txNext=67	winPDU=0	txWinBytes=0	totalTxBytes=13317	poll=62
+PDCP	28442.325	RB4	count=67	discard=0/0B	RXpkt=67	RXbytes=12346	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28442.825	LCID5	txNextAck=75	txNext=75	winPDU=0	txWinBytes=0	totalTxBytes=14869	poll=70
+PDCP	28442.825	RB4	count=75	discard=0/0B	RXpkt=75	RXbytes=13834	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28443.325	LCID5	txNextAck=83	txNext=83	winPDU=0	txWinBytes=0	totalTxBytes=16435	poll=78
+PDCP	28443.325	RB4	count=83	discard=0/0B	RXpkt=84	RXbytes=15508	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28443.825	LCID5	txNextAck=92	txNext=92	winPDU=0	txWinBytes=0	totalTxBytes=18181	poll=87
+PDCP	28443.825	RB4	count=92	discard=0/0B	RXpkt=92	RXbytes=16996	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28444.325	LCID5	txNextAck=100	txNext=100	winPDU=0	txWinBytes=0	totalTxBytes=19740	poll=95
+PDCP	28444.325	RB4	count=100	discard=0/0B	RXpkt=100	RXbytes=18484	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28444.825	LCID5	txNextAck=108	txNext=108	winPDU=0	txWinBytes=0	totalTxBytes=21306	poll=103
+PDCP	28444.825	RB4	count=108	discard=0/0B	RXpkt=109	RXbytes=20158	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28445.325	LCID5	txNextAck=119	txNext=120	winPDU=1	txWinBytes=186	totalTxBytes=23645	poll=113
+PDCP	28445.325	RB4	count=120	discard=0/0B	RXpkt=120	RXbytes=22201	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28445.825	LCID5	txNextAck=129	txNext=129	winPDU=0	txWinBytes=0	totalTxBytes=25285	poll=122
+PDCP	28445.825	RB4	count=129	discard=0/0B	RXpkt=129	RXbytes=23762	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28446.325	LCID5	txNextAck=137	txNext=137	winPDU=0	txWinBytes=0	totalTxBytes=26837	poll=130
+PDCP	28446.325	RB4	count=137	discard=0/0B	RXpkt=138	RXbytes=25436	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28446.825	LCID5	txNextAck=146	txNext=146	winPDU=0	txWinBytes=0	totalTxBytes=28583	poll=139
+PDCP	28446.825	RB4	count=146	discard=0/0B	RXpkt=146	RXbytes=26924	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28447.325	LCID5	txNextAck=154	txNext=154	winPDU=0	txWinBytes=0	totalTxBytes=30135	poll=147
+PDCP	28447.325	RB4	count=154	discard=0/0B	RXpkt=154	RXbytes=28412	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28447.825	LCID5	txNextAck=162	txNext=162	winPDU=0	txWinBytes=0	totalTxBytes=31694	poll=155
+PDCP	28447.825	RB4	count=162	discard=0/0B	RXpkt=162	RXbytes=29900	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28448.325	LCID5	txNextAck=171	txNext=171	winPDU=0	txWinBytes=0	totalTxBytes=33440	poll=164
+PDCP	28448.325	RB4	count=171	discard=0/0B	RXpkt=171	RXbytes=31574	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28448.825	LCID5	txNextAck=179	txNext=179	winPDU=0	txWinBytes=0	totalTxBytes=34992	poll=172
+PDCP	28448.825	RB4	count=179	discard=0/0B	RXpkt=179	RXbytes=33062	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28449.325	LCID5	txNextAck=187	txNext=187	winPDU=0	txWinBytes=0	totalTxBytes=36544	poll=180
+PDCP	28449.325	RB4	count=187	discard=0/0B	RXpkt=188	RXbytes=34736	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28449.825	LCID5	txNextAck=196	txNext=196	winPDU=0	txWinBytes=0	totalTxBytes=38290	poll=189
+PDCP	28449.825	RB4	count=196	discard=0/0B	RXpkt=196	RXbytes=36224	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28450.325	LCID5	txNextAck=207	txNext=207	winPDU=0	txWinBytes=0	totalTxBytes=40436	poll=197
+PDCP	28450.325	RB4	count=207	discard=0/0B	RXpkt=207	RXbytes=38267	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28450.825	LCID5	txNextAck=216	txNext=216	winPDU=0	txWinBytes=0	totalTxBytes=42076	poll=205
+PDCP	28450.825	RB4	count=216	discard=0/0B	RXpkt=216	RXbytes=39828	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28451.325	LCID5	txNextAck=224	txNext=225	winPDU=1	txWinBytes=186	totalTxBytes=43822	poll=214
+PDCP	28451.325	RB4	count=225	discard=0/0B	RXpkt=225	RXbytes=41502	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28451.825	LCID5	txNextAck=234	txNext=234	winPDU=0	txWinBytes=0	totalTxBytes=45483	poll=223
+PDCP	28451.825	RB4	count=234	discard=0/0B	RXpkt=234	RXbytes=43091	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28452.325	LCID5	txNextAck=242	txNext=242	winPDU=0	txWinBytes=0	totalTxBytes=47035	poll=231
+PDCP	28452.325	RB4	count=242	discard=0/0B	RXpkt=243	RXbytes=44765	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28452.825	LCID5	txNextAck=250	txNext=251	winPDU=1	txWinBytes=186	totalTxBytes=48781	poll=240
+PDCP	28452.825	RB4	count=251	discard=0/0B	RXpkt=251	RXbytes=46253	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28453.325	LCID5	txNextAck=259	txNext=259	winPDU=0	txWinBytes=0	totalTxBytes=50333	poll=248
+PDCP	28453.325	RB4	count=259	discard=0/0B	RXpkt=259	RXbytes=47741	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28453.825	LCID5	txNextAck=267	txNext=267	winPDU=0	txWinBytes=0	totalTxBytes=51885	poll=256
+PDCP	28453.825	RB4	count=267	discard=0/0B	RXpkt=268	RXbytes=49415	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28454.325	LCID5	txNextAck=275	txNext=276	winPDU=1	txWinBytes=186	totalTxBytes=53631	poll=265
+PDCP	28454.325	RB4	count=276	discard=0/0B	RXpkt=276	RXbytes=50903	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28454.825	LCID5	txNextAck=284	txNext=284	winPDU=0	txWinBytes=0	totalTxBytes=55183	poll=273
+PDCP	28454.825	RB4	count=284	discard=0/0B	RXpkt=284	RXbytes=52391	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28455.325	LCID5	txNextAck=295	txNext=295	winPDU=0	txWinBytes=0	totalTxBytes=57321	poll=282
+PDCP	28455.325	RB4	count=295	discard=0/0B	RXpkt=296	RXbytes=54620	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28455.825	LCID5	txNextAck=305	txNext=305	winPDU=0	txWinBytes=0	totalTxBytes=59148	poll=291
+PDCP	28455.825	RB4	count=305	discard=0/0B	RXpkt=305	RXbytes=56181	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28456.325	LCID5	txNextAck=313	txNext=313	winPDU=0	txWinBytes=0	totalTxBytes=60700	poll=299
+PDCP	28456.325	RB4	count=313	discard=0/0B	RXpkt=313	RXbytes=57669	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28456.825	LCID5	txNextAck=321	txNext=321	winPDU=0	txWinBytes=0	totalTxBytes=62252	poll=307
+PDCP	28456.825	RB4	count=321	discard=0/0B	RXpkt=322	RXbytes=59343	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28457.325	LCID5	txNextAck=329	txNext=330	winPDU=1	txWinBytes=186	totalTxBytes=63998	poll=316
+PDCP	28457.325	RB4	count=330	discard=0/0B	RXpkt=330	RXbytes=60831	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28457.825	LCID5	txNextAck=338	txNext=338	winPDU=0	txWinBytes=0	totalTxBytes=65550	poll=324
+PDCP	28457.825	RB4	count=338	discard=0/0B	RXpkt=338	RXbytes=62319	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28458.325	LCID5	txNextAck=346	txNext=346	winPDU=0	txWinBytes=0	totalTxBytes=67102	poll=332
+PDCP	28458.325	RB4	count=346	discard=0/0B	RXpkt=346	RXbytes=63807	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28458.825	LCID5	txNextAck=355	txNext=355	winPDU=0	txWinBytes=0	totalTxBytes=68848	poll=341
+PDCP	28458.825	RB4	count=355	discard=0/0B	RXpkt=355	RXbytes=65481	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28459.179	LCID5	txNextAck=360	txNext=360	winPDU=0	txWinBytes=0	totalTxBytes=69818	poll=346
+PDCP	28459.179	RB4	count=360	discard=0/0B	RXpkt=361	RXbytes=66597	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28459.179	LCID5	txNextAck=360	txNext=360	winPDU=0	txWinBytes=0	totalTxBytes=69818	poll=346
+PDCP	28459.179	RB4	count=360	discard=0/0B	RXpkt=361	RXbytes=66597	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28459.266	LCID5	txNextAck=360	txNext=360	winPDU=0	txWinBytes=0	totalTxBytes=69818	poll=346
+PDCP	28459.266	RB4	count=360	discard=0/0B	RXpkt=362	RXbytes=66783	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28459.267	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28459.267	RB4	count=360	discard=0/0B	RXpkt=363	RXbytes=66788	WMpkt=3	WMbytes=377	state=LOW_ENABLED
+RLC	28459.325	LCID5	txNextAck=3	txNext=4	winPDU=1	txWinBytes=186	totalTxBytes=599	poll=2
+PDCP	28459.325	RB4	count=363	discard=0/0B	RXpkt=364	RXbytes=66974	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28459.825	LCID5	txNextAck=11	txNext=11	winPDU=0	txWinBytes=0	totalTxBytes=1978	poll=8
+PDCP	28459.825	RB4	count=370	discard=0/0B	RXpkt=373	RXbytes=68648	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28460.325	LCID5	txNextAck=23	txNext=25	winPDU=2	txWinBytes=259	totalTxBytes=4628	poll=16
+PDCP	28460.325	RB4	count=384	discard=0/0B	RXpkt=385	RXbytes=70764	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28460.825	LCID5	txNextAck=33	txNext=33	winPDU=0	txWinBytes=0	totalTxBytes=6201	poll=22
+PDCP	28460.825	RB4	count=392	discard=0/0B	RXpkt=393	RXbytes=72252	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28461.325	LCID5	txNextAck=41	txNext=41	winPDU=0	txWinBytes=0	totalTxBytes=7795	poll=27
+PDCP	28461.325	RB4	count=400	discard=0/0B	RXpkt=401	RXbytes=73740	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28461.825	LCID5	txNextAck=49	txNext=49	winPDU=0	txWinBytes=0	totalTxBytes=9389	poll=33
+PDCP	28461.825	RB4	count=408	discard=0/0B	RXpkt=410	RXbytes=75414	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28462.325	LCID5	txNextAck=57	txNext=57	winPDU=0	txWinBytes=0	totalTxBytes=10962	poll=39
+PDCP	28462.325	RB4	count=416	discard=0/0B	RXpkt=418	RXbytes=76902	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28462.825	LCID5	txNextAck=66	txNext=66	winPDU=0	txWinBytes=0	totalTxBytes=12764	poll=46
+PDCP	28462.825	RB4	count=425	discard=0/0B	RXpkt=427	RXbytes=78576	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28463.325	LCID5	txNextAck=74	txNext=74	winPDU=0	txWinBytes=0	totalTxBytes=14344	poll=52
+PDCP	28463.325	RB4	count=433	discard=0/0B	RXpkt=435	RXbytes=80064	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28463.825	LCID5	txNextAck=82	txNext=82	winPDU=0	txWinBytes=0	totalTxBytes=15931	poll=58
+PDCP	28463.825	RB4	count=441	discard=0/0B	RXpkt=443	RXbytes=81552	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28464.325	LCID5	txNextAck=90	txNext=90	winPDU=0	txWinBytes=0	totalTxBytes=17497	poll=64
+PDCP	28464.325	RB4	count=449	discard=0/0B	RXpkt=452	RXbytes=83226	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28464.825	LCID5	txNextAck=100	txNext=100	winPDU=0	txWinBytes=0	totalTxBytes=19486	poll=71
+PDCP	28464.825	RB4	count=459	discard=0/0B	RXpkt=460	RXbytes=84714	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28465.325	LCID5	txNextAck=111	txNext=111	winPDU=0	txWinBytes=0	totalTxBytes=21646	poll=78
+PDCP	28465.325	RB4	count=470	discard=0/0B	RXpkt=471	RXbytes=86757	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28465.825	LCID5	txNextAck=120	txNext=120	winPDU=0	txWinBytes=0	totalTxBytes=23307	poll=84
+PDCP	28465.825	RB4	count=479	discard=0/0B	RXpkt=481	RXbytes=88504	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28466.325	LCID5	txNextAck=128	txNext=128	winPDU=0	txWinBytes=0	totalTxBytes=24901	poll=90
+PDCP	28466.325	RB4	count=487	discard=0/0B	RXpkt=489	RXbytes=89992	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28466.825	LCID5	txNextAck=137	txNext=137	winPDU=0	txWinBytes=0	totalTxBytes=26661	poll=97
+PDCP	28466.825	RB4	count=496	discard=0/0B	RXpkt=497	RXbytes=91480	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28467.325	LCID5	txNextAck=145	txNext=145	winPDU=0	txWinBytes=0	totalTxBytes=28248	poll=103
+PDCP	28467.325	RB4	count=504	discard=0/0B	RXpkt=506	RXbytes=93154	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28467.825	LCID5	txNextAck=153	txNext=153	winPDU=0	txWinBytes=0	totalTxBytes=29814	poll=109
+PDCP	28467.825	RB4	count=512	discard=0/0B	RXpkt=514	RXbytes=94642	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28468.325	LCID5	txNextAck=161	txNext=161	winPDU=0	txWinBytes=0	totalTxBytes=31380	poll=115
+PDCP	28468.325	RB4	count=520	discard=0/0B	RXpkt=522	RXbytes=96130	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28468.825	LCID5	txNextAck=170	txNext=170	winPDU=0	txWinBytes=0	totalTxBytes=33140	poll=122
+PDCP	28468.825	RB4	count=529	discard=0/0B	RXpkt=531	RXbytes=97804	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28469.325	LCID5	txNextAck=178	txNext=178	winPDU=0	txWinBytes=0	totalTxBytes=34713	poll=128
+PDCP	28469.325	RB4	count=537	discard=0/0B	RXpkt=539	RXbytes=99292	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28469.825	LCID5	txNextAck=186	txNext=186	winPDU=0	txWinBytes=0	totalTxBytes=36300	poll=134
+PDCP	28469.825	RB4	count=545	discard=0/0B	RXpkt=547	RXbytes=100780	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28470.325	LCID5	txNextAck=197	txNext=198	winPDU=1	txWinBytes=186	totalTxBytes=38653	poll=142
+PDCP	28470.325	RB4	count=557	discard=0/0B	RXpkt=560	RXbytes=103082	WMpkt=2	WMbytes=259	state=LOW_ENABLED
+RLC	28470.825	LCID5	txNextAck=208	txNext=208	winPDU=0	txWinBytes=0	totalTxBytes=40501	poll=149
+PDCP	28470.825	RB4	count=567	discard=0/0B	RXpkt=568	RXbytes=104570	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28471.325	LCID5	txNextAck=216	txNext=216	winPDU=0	txWinBytes=0	totalTxBytes=42074	poll=155
+PDCP	28471.325	RB4	count=575	discard=0/0B	RXpkt=576	RXbytes=106058	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28471.825	LCID5	txNextAck=223	txNext=223	winPDU=0	txWinBytes=0	totalTxBytes=43453	poll=161
+PDCP	28471.825	RB4	count=582	discard=0/0B	RXpkt=584	RXbytes=107546	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28472.325	LCID5	txNextAck=232	txNext=232	winPDU=0	txWinBytes=0	totalTxBytes=45234	poll=167
+PDCP	28472.325	RB4	count=591	discard=0/0B	RXpkt=593	RXbytes=109220	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28472.825	LCID5	txNextAck=241	txNext=241	winPDU=0	txWinBytes=0	totalTxBytes=46987	poll=174
+PDCP	28472.825	RB4	count=600	discard=0/0B	RXpkt=601	RXbytes=110708	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28473.325	LCID5	txNextAck=249	txNext=249	winPDU=0	txWinBytes=0	totalTxBytes=48553	poll=180
+PDCP	28473.325	RB4	count=608	discard=0/0B	RXpkt=610	RXbytes=112382	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28473.825	LCID5	txNextAck=257	txNext=257	winPDU=0	txWinBytes=0	totalTxBytes=50119	poll=186
+PDCP	28473.825	RB4	count=616	discard=0/0B	RXpkt=618	RXbytes=113870	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28474.325	LCID5	txNextAck=265	txNext=265	winPDU=0	txWinBytes=0	totalTxBytes=51692	poll=192
+PDCP	28474.325	RB4	count=624	discard=0/0B	RXpkt=626	RXbytes=115358	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28474.825	LCID5	txNextAck=274	txNext=274	winPDU=0	txWinBytes=0	totalTxBytes=53452	poll=199
+PDCP	28474.825	RB4	count=633	discard=0/0B	RXpkt=634	RXbytes=116846	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28475.325	LCID5	txNextAck=284	txNext=284	winPDU=0	txWinBytes=0	totalTxBytes=55222	poll=205
+PDCP	28475.325	RB4	count=643	discard=0/0B	RXpkt=646	RXbytes=119075	WMpkt=2	WMbytes=567	state=LOW_ENABLED
+RLC	28475.825	LCID5	txNextAck=294	txNext=294	winPDU=0	txWinBytes=0	totalTxBytes=57265	poll=211
+PDCP	28475.825	RB4	count=653	discard=0/0B	RXpkt=655	RXbytes=120636	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28476.325	LCID5	txNextAck=302	txNext=302	winPDU=0	txWinBytes=0	totalTxBytes=58845	poll=217
+PDCP	28476.325	RB4	count=661	discard=0/0B	RXpkt=664	RXbytes=122310	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28476.825	LCID5	txNextAck=311	txNext=311	winPDU=0	txWinBytes=0	totalTxBytes=60605	poll=224
+PDCP	28476.825	RB4	count=670	discard=0/0B	RXpkt=672	RXbytes=123798	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28477.325	LCID5	txNextAck=320	txNext=320	winPDU=0	txWinBytes=0	totalTxBytes=62372	poll=230
+PDCP	28477.325	RB4	count=679	discard=0/0B	RXpkt=680	RXbytes=125286	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28477.825	LCID5	txNextAck=327	txNext=327	winPDU=0	txWinBytes=0	totalTxBytes=63765	poll=236
+PDCP	28477.825	RB4	count=686	discard=0/0B	RXpkt=688	RXbytes=126774	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28478.325	LCID5	txNextAck=336	txNext=336	winPDU=0	txWinBytes=0	totalTxBytes=65532	poll=242
+PDCP	28478.325	RB4	count=695	discard=0/0B	RXpkt=697	RXbytes=128448	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28478.825	LCID5	txNextAck=345	txNext=345	winPDU=0	txWinBytes=0	totalTxBytes=67299	poll=249
+PDCP	28478.825	RB4	count=704	discard=0/0B	RXpkt=705	RXbytes=129936	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28479.325	LCID5	txNextAck=353	txNext=353	winPDU=0	txWinBytes=0	totalTxBytes=68865	poll=255
+PDCP	28479.325	RB4	count=712	discard=0/0B	RXpkt=713	RXbytes=131424	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28479.825	LCID5	txNextAck=361	txNext=361	winPDU=0	txWinBytes=0	totalTxBytes=70445	poll=261
+PDCP	28479.825	RB4	count=720	discard=0/0B	RXpkt=722	RXbytes=133098	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28480.325	LCID5	txNextAck=372	txNext=373	winPDU=1	txWinBytes=186	totalTxBytes=72798	poll=269
+PDCP	28480.325	RB4	count=732	discard=0/0B	RXpkt=734	RXbytes=135214	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+RLC	28480.825	LCID5	txNextAck=382	txNext=382	winPDU=0	txWinBytes=0	totalTxBytes=74466	poll=276
+PDCP	28480.825	RB4	count=741	discard=0/0B	RXpkt=743	RXbytes=136888	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28481.325	LCID5	txNextAck=390	txNext=390	winPDU=0	txWinBytes=0	totalTxBytes=76032	poll=282
+PDCP	28481.325	RB4	count=749	discard=0/0B	RXpkt=751	RXbytes=138376	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28481.825	LCID5	txNextAck=398	txNext=398	winPDU=0	txWinBytes=0	totalTxBytes=77598	poll=288
+PDCP	28481.825	RB4	count=757	discard=0/0B	RXpkt=759	RXbytes=139864	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28482.325	LCID5	txNextAck=406	txNext=406	winPDU=0	txWinBytes=0	totalTxBytes=79164	poll=294
+PDCP	28482.325	RB4	count=765	discard=0/0B	RXpkt=767	RXbytes=141352	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28482.825	LCID5	txNextAck=416	txNext=416	winPDU=0	txWinBytes=0	totalTxBytes=81118	poll=301
+PDCP	28482.825	RB4	count=775	discard=0/0B	RXpkt=776	RXbytes=143026	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28483.325	LCID5	txNextAck=424	txNext=424	winPDU=0	txWinBytes=0	totalTxBytes=82684	poll=307
+PDCP	28483.325	RB4	count=783	discard=0/0B	RXpkt=784	RXbytes=144514	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28483.825	LCID5	txNextAck=431	txNext=431	winPDU=0	txWinBytes=0	totalTxBytes=84063	poll=313
+PDCP	28483.825	RB4	count=790	discard=0/0B	RXpkt=792	RXbytes=146002	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28484.325	LCID5	txNextAck=442	txNext=442	winPDU=0	txWinBytes=0	totalTxBytes=86024	poll=319
+PDCP	28484.325	RB4	count=801	discard=0/0B	RXpkt=805	RXbytes=150412	WMpkt=3	WMbytes=2744	state=LOW_ENABLED
+RLC	28484.825	LCID5	txNextAck=465	txNext=465	winPDU=0	txWinBytes=0	totalTxBytes=94024	poll=329
+PDCP	28484.825	RB4	count=824	discard=0/0B	RXpkt=825	RXbytes=155438	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28485.234	LCID5	txNextAck=476	txNext=476	winPDU=0	txWinBytes=0	totalTxBytes=95788	poll=334
+PDCP	28485.234	RB4	count=835	discard=0/0B	RXpkt=836	RXbytes=157086	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28485.234	LCID5	txNextAck=476	txNext=476	winPDU=0	txWinBytes=0	totalTxBytes=95788	poll=334
+PDCP	28485.234	RB4	count=835	discard=0/0B	RXpkt=836	RXbytes=157086	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28485.325	LCID5	txNextAck=476	txNext=476	winPDU=0	txWinBytes=0	totalTxBytes=95788	poll=334
+PDCP	28485.325	RB4	count=835	discard=0/0B	RXpkt=838	RXbytes=157458	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28485.346	LCID5	txNextAck=476	txNext=476	winPDU=0	txWinBytes=0	totalTxBytes=95788	poll=334
+PDCP	28485.346	RB4	count=835	discard=0/0B	RXpkt=838	RXbytes=157458	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28485.346	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28485.346	RB4	count=835	discard=0/0B	RXpkt=839	RXbytes=157463	WMpkt=3	WMbytes=377	state=LOW_ENABLED
+RLC	28485.825	LCID5	txNextAck=12	txNext=12	winPDU=0	txWinBytes=0	totalTxBytes=2261	poll=8
+PDCP	28485.825	RB4	count=846	discard=0/0B	RXpkt=849	RXbytes=159405	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28486.325	LCID5	txNextAck=20	txNext=20	winPDU=0	txWinBytes=0	totalTxBytes=3827	poll=14
+PDCP	28486.325	RB4	count=854	discard=0/0B	RXpkt=857	RXbytes=160893	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28486.825	LCID5	txNextAck=28	txNext=29	winPDU=1	txWinBytes=186	totalTxBytes=5608	poll=21
+PDCP	28486.825	RB4	count=863	discard=0/0B	RXpkt=865	RXbytes=162381	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28487.325	LCID5	txNextAck=38	txNext=38	winPDU=0	txWinBytes=0	totalTxBytes=7389	poll=27
+PDCP	28487.325	RB4	count=872	discard=0/0B	RXpkt=874	RXbytes=164055	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28487.825	LCID5	txNextAck=45	txNext=45	winPDU=0	txWinBytes=0	totalTxBytes=8768	poll=33
+PDCP	28487.825	RB4	count=879	discard=0/0B	RXpkt=882	RXbytes=165543	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28488.325	LCID5	txNextAck=53	txNext=53	winPDU=0	txWinBytes=0	totalTxBytes=10334	poll=39
+PDCP	28488.325	RB4	count=887	discard=0/0B	RXpkt=890	RXbytes=167031	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28488.825	LCID5	txNextAck=62	txNext=63	winPDU=1	txWinBytes=186	totalTxBytes=12302	poll=46
+PDCP	28488.825	RB4	count=897	discard=0/0B	RXpkt=899	RXbytes=168705	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28489.325	LCID5	txNextAck=71	txNext=71	winPDU=0	txWinBytes=0	totalTxBytes=13882	poll=52
+PDCP	28489.325	RB4	count=905	discard=0/0B	RXpkt=907	RXbytes=170193	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28489.825	LCID5	txNextAck=79	txNext=79	winPDU=0	txWinBytes=0	totalTxBytes=15448	poll=58
+PDCP	28489.825	RB4	count=913	discard=0/0B	RXpkt=916	RXbytes=171867	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28490.325	LCID5	txNextAck=90	txNext=92	winPDU=2	txWinBytes=259	totalTxBytes=17904	poll=65
+PDCP	28490.325	RB4	count=926	discard=0/0B	RXpkt=928	RXbytes=173983	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28490.825	LCID5	txNextAck=99	txNext=100	winPDU=1	txWinBytes=186	totalTxBytes=19463	poll=71
+PDCP	28490.825	RB4	count=934	discard=0/0B	RXpkt=936	RXbytes=175471	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28491.325	LCID5	txNextAck=108	txNext=108	winPDU=0	txWinBytes=0	totalTxBytes=21050	poll=77
+PDCP	28491.325	RB4	count=942	discard=0/0B	RXpkt=945	RXbytes=177145	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28491.825	LCID5	txNextAck=115	txNext=115	winPDU=0	txWinBytes=0	totalTxBytes=22422	poll=82
+PDCP	28491.825	RB4	count=949	discard=0/0B	RXpkt=953	RXbytes=178633	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28492.325	LCID5	txNextAck=124	txNext=124	winPDU=0	txWinBytes=0	totalTxBytes=24189	poll=88
+PDCP	28492.325	RB4	count=958	discard=0/0B	RXpkt=961	RXbytes=180121	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28492.825	LCID5	txNextAck=132	txNext=132	winPDU=1	txWinBytes=186	totalTxBytes=25943	poll=94
+PDCP	28492.825	RB4	count=966	discard=0/0B	RXpkt=970	RXbytes=181795	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28493.325	LCID5	txNextAck=141	txNext=141	winPDU=0	txWinBytes=0	totalTxBytes=27522	poll=101
+PDCP	28493.325	RB4	count=975	discard=0/0B	RXpkt=978	RXbytes=183283	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28493.825	LCID5	txNextAck=149	txNext=149	winPDU=0	txWinBytes=0	totalTxBytes=29088	poll=107
+PDCP	28493.825	RB4	count=983	discard=0/0B	RXpkt=986	RXbytes=184771	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28494.325	LCID5	txNextAck=157	txNext=157	winPDU=0	txWinBytes=0	totalTxBytes=30654	poll=113
+PDCP	28494.325	RB4	count=991	discard=0/0B	RXpkt=994	RXbytes=186259	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28494.825	LCID5	txNextAck=165	txNext=166	winPDU=2	txWinBytes=372	totalTxBytes=32468	poll=119
+PDCP	28494.825	RB4	count=1000	discard=0/0B	RXpkt=1003	RXbytes=187933	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28495.325	LCID5	txNextAck=174	txNext=174	winPDU=0	txWinBytes=0	totalTxBytes=33985	poll=125
+PDCP	28495.325	RB4	count=1008	discard=0/0B	RXpkt=1010	RXbytes=189233	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28495.825	LCID5	txNextAck=175	txNext=175	winPDU=0	txWinBytes=0	totalTxBytes=34066	poll=126
+PDCP	28495.825	RB4	count=1009	discard=0/0B	RXpkt=1012	RXbytes=189409	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28496.325	LCID5	txNextAck=179	txNext=179	winPDU=0	txWinBytes=0	totalTxBytes=34680	poll=130
+PDCP	28496.325	RB4	count=1013	discard=0/0B	RXpkt=1015	RXbytes=189881	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28496.825	LCID5	txNextAck=179	txNext=179	winPDU=0	txWinBytes=0	totalTxBytes=34680	poll=130
+PDCP	28496.825	RB4	count=1013	discard=0/0B	RXpkt=1015	RXbytes=189881	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28497.325	LCID5	txNextAck=180	txNext=180	winPDU=0	txWinBytes=0	totalTxBytes=34768	poll=131
+PDCP	28497.325	RB4	count=1014	discard=0/0B	RXpkt=1016	RXbytes=189954	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28497.825	LCID5	txNextAck=180	txNext=180	winPDU=0	txWinBytes=0	totalTxBytes=34768	poll=131
+PDCP	28497.825	RB4	count=1014	discard=0/0B	RXpkt=1016	RXbytes=189954	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28498.325	LCID5	txNextAck=185	txNext=185	winPDU=0	txWinBytes=0	totalTxBytes=35591	poll=135
+PDCP	28498.325	RB4	count=1019	discard=0/0B	RXpkt=1024	RXbytes=191288	WMpkt=3	WMbytes=558	state=LOW_ENABLED
+RLC	28498.825	LCID5	txNextAck=195	txNext=195	winPDU=1	txWinBytes=186	totalTxBytes=37724	poll=141
+PDCP	28498.825	RB4	count=1029	discard=0/0B	RXpkt=1032	RXbytes=192776	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28499.325	LCID5	txNextAck=204	txNext=204	winPDU=0	txWinBytes=0	totalTxBytes=39326	poll=148
+PDCP	28499.325	RB4	count=1038	discard=0/0B	RXpkt=1041	RXbytes=194450	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28499.825	LCID5	txNextAck=212	txNext=212	winPDU=0	txWinBytes=0	totalTxBytes=40892	poll=154
+PDCP	28499.825	RB4	count=1046	discard=0/0B	RXpkt=1049	RXbytes=195938	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28500.325	LCID5	txNextAck=224	txNext=224	winPDU=0	txWinBytes=0	totalTxBytes=43246	poll=160
+PDCP	28500.325	RB4	count=1058	discard=0/0B	RXpkt=1062	RXbytes=198240	WMpkt=2	WMbytes=259	state=LOW_ENABLED
+RLC	28500.825	LCID5	txNextAck=232	txNext=232	winPDU=1	txWinBytes=186	totalTxBytes=44855	poll=166
+PDCP	28500.825	RB4	count=1066	discard=0/0B	RXpkt=1070	RXbytes=199728	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28501.325	LCID5	txNextAck=242	txNext=242	winPDU=0	txWinBytes=0	totalTxBytes=46667	poll=173
+PDCP	28501.325	RB4	count=1076	discard=0/0B	RXpkt=1078	RXbytes=201216	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28501.825	LCID5	txNextAck=250	txNext=250	winPDU=0	txWinBytes=0	totalTxBytes=48233	poll=179
+PDCP	28501.825	RB4	count=1084	discard=0/0B	RXpkt=1087	RXbytes=202890	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28502.325	LCID5	txNextAck=258	txNext=258	winPDU=0	txWinBytes=0	totalTxBytes=49799	poll=185
+PDCP	28502.325	RB4	count=1092	discard=0/0B	RXpkt=1095	RXbytes=204378	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28502.825	LCID5	txNextAck=266	txNext=267	winPDU=1	txWinBytes=186	totalTxBytes=51587	poll=192
+PDCP	28502.825	RB4	count=1101	discard=0/0B	RXpkt=1103	RXbytes=205866	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28503.325	LCID5	txNextAck=275	txNext=275	winPDU=0	txWinBytes=0	totalTxBytes=53153	poll=198
+PDCP	28503.325	RB4	count=1109	discard=0/0B	RXpkt=1112	RXbytes=207540	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28503.825	LCID5	txNextAck=283	txNext=283	winPDU=0	txWinBytes=0	totalTxBytes=54740	poll=204
+PDCP	28503.825	RB4	count=1117	discard=0/0B	RXpkt=1120	RXbytes=209028	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28504.325	LCID5	txNextAck=291	txNext=291	winPDU=0	txWinBytes=0	totalTxBytes=56327	poll=210
+PDCP	28504.325	RB4	count=1125	discard=0/0B	RXpkt=1128	RXbytes=210516	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28504.825	LCID5	txNextAck=299	txNext=300	winPDU=1	txWinBytes=186	totalTxBytes=58101	poll=217
+PDCP	28504.825	RB4	count=1134	discard=0/0B	RXpkt=1137	RXbytes=212190	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28505.325	LCID5	txNextAck=309	txNext=312	winPDU=3	txWinBytes=753	totalTxBytes=60462	poll=223
+PDCP	28505.325	RB4	count=1146	discard=0/0B	RXpkt=1148	RXbytes=214233	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28505.825	LCID5	txNextAck=320	txNext=320	winPDU=0	txWinBytes=0	totalTxBytes=61922	poll=230
+PDCP	28505.825	RB4	count=1154	discard=0/0B	RXpkt=1157	RXbytes=215794	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28506.325	LCID5	txNextAck=329	txNext=329	winPDU=0	txWinBytes=0	totalTxBytes=63710	poll=236
+PDCP	28506.325	RB4	count=1163	discard=0/0B	RXpkt=1165	RXbytes=217282	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28506.825	LCID5	txNextAck=336	txNext=337	winPDU=2	txWinBytes=372	totalTxBytes=65308	poll=242
+PDCP	28506.825	RB4	count=1171	discard=0/0B	RXpkt=1174	RXbytes=218956	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28507.325	LCID5	txNextAck=346	txNext=346	winPDU=0	txWinBytes=0	totalTxBytes=67057	poll=249
+PDCP	28507.325	RB4	count=1180	discard=0/0B	RXpkt=1182	RXbytes=220444	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28507.825	LCID5	txNextAck=354	txNext=354	winPDU=0	txWinBytes=0	totalTxBytes=68637	poll=255
+PDCP	28507.825	RB4	count=1188	discard=0/0B	RXpkt=1190	RXbytes=221932	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28508.325	LCID5	txNextAck=362	txNext=362	winPDU=0	txWinBytes=0	totalTxBytes=70196	poll=261
+PDCP	28508.325	RB4	count=1196	discard=0/0B	RXpkt=1199	RXbytes=223606	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28508.825	LCID5	txNextAck=370	txNext=371	winPDU=1	txWinBytes=186	totalTxBytes=71977	poll=268
+PDCP	28508.825	RB4	count=1205	discard=0/0B	RXpkt=1207	RXbytes=225094	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28509.325	LCID5	txNextAck=379	txNext=379	winPDU=0	txWinBytes=0	totalTxBytes=73543	poll=274
+PDCP	28509.325	RB4	count=1213	discard=0/0B	RXpkt=1216	RXbytes=226768	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28509.825	LCID5	txNextAck=387	txNext=387	winPDU=0	txWinBytes=0	totalTxBytes=75137	poll=280
+PDCP	28509.825	RB4	count=1221	discard=0/0B	RXpkt=1224	RXbytes=228256	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28510.325	LCID5	txNextAck=398	txNext=398	winPDU=0	txWinBytes=0	totalTxBytes=77296	poll=287
+PDCP	28510.325	RB4	count=1232	discard=0/0B	RXpkt=1235	RXbytes=230299	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28510.825	LCID5	txNextAck=407	txNext=407	winPDU=1	txWinBytes=186	totalTxBytes=79131	poll=293
+PDCP	28510.825	RB4	count=1241	discard=0/0B	RXpkt=1245	RXbytes=232046	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28511.325	LCID5	txNextAck=416	txNext=416	winPDU=0	txWinBytes=0	totalTxBytes=80759	poll=299
+PDCP	28511.325	RB4	count=1250	discard=0/0B	RXpkt=1253	RXbytes=233534	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28511.825	LCID5	txNextAck=425	txNext=425	winPDU=0	txWinBytes=0	totalTxBytes=82434	poll=306
+PDCP	28511.825	RB4	count=1259	discard=0/0B	RXpkt=1262	RXbytes=235123	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28512.325	LCID5	txNextAck=434	txNext=434	winPDU=0	txWinBytes=0	totalTxBytes=84215	poll=312
+PDCP	28512.325	RB4	count=1268	discard=0/0B	RXpkt=1271	RXbytes=236797	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28512.825	LCID5	txNextAck=441	txNext=442	winPDU=2	txWinBytes=372	totalTxBytes=85836	poll=318
+PDCP	28512.825	RB4	count=1276	discard=0/0B	RXpkt=1279	RXbytes=238285	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28513.325	LCID5	txNextAck=451	txNext=451	winPDU=0	txWinBytes=0	totalTxBytes=87569	poll=325
+PDCP	28513.325	RB4	count=1285	discard=0/0B	RXpkt=1287	RXbytes=239773	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28513.825	LCID5	txNextAck=459	txNext=459	winPDU=0	txWinBytes=0	totalTxBytes=89156	poll=331
+PDCP	28513.825	RB4	count=1293	discard=0/0B	RXpkt=1296	RXbytes=241447	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28514.325	LCID5	txNextAck=467	txNext=467	winPDU=0	txWinBytes=0	totalTxBytes=90743	poll=337
+PDCP	28514.325	RB4	count=1301	discard=0/0B	RXpkt=1304	RXbytes=242935	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28514.825	LCID5	txNextAck=475	txNext=476	winPDU=1	txWinBytes=186	totalTxBytes=92503	poll=344
+PDCP	28514.825	RB4	count=1310	discard=0/0B	RXpkt=1312	RXbytes=244423	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28515.325	LCID5	txNextAck=487	txNext=487	winPDU=0	txWinBytes=0	totalTxBytes=94663	poll=350
+PDCP	28515.325	RB4	count=1321	discard=0/0B	RXpkt=1324	RXbytes=246652	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28515.825	LCID5	txNextAck=496	txNext=496	winPDU=0	txWinBytes=0	totalTxBytes=96331	poll=356
+PDCP	28515.825	RB4	count=1330	discard=0/0B	RXpkt=1333	RXbytes=248213	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28516.325	LCID5	txNextAck=504	txNext=504	winPDU=0	txWinBytes=0	totalTxBytes=97918	poll=362
+PDCP	28516.325	RB4	count=1338	discard=0/0B	RXpkt=1341	RXbytes=249701	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28516.825	LCID5	txNextAck=512	txNext=513	winPDU=1	txWinBytes=186	totalTxBytes=99692	poll=369
+PDCP	28516.825	RB4	count=1347	discard=0/0B	RXpkt=1350	RXbytes=251375	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28517.325	LCID5	txNextAck=521	txNext=521	winPDU=0	txWinBytes=0	totalTxBytes=101286	poll=375
+PDCP	28517.325	RB4	count=1355	discard=0/0B	RXpkt=1358	RXbytes=252863	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28517.825	LCID5	txNextAck=529	txNext=529	winPDU=0	txWinBytes=0	totalTxBytes=102852	poll=381
+PDCP	28517.825	RB4	count=1363	discard=0/0B	RXpkt=1366	RXbytes=254351	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28518.325	LCID5	txNextAck=537	txNext=537	winPDU=0	txWinBytes=0	totalTxBytes=104439	poll=387
+PDCP	28518.325	RB4	count=1371	discard=0/0B	RXpkt=1375	RXbytes=256025	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28518.825	LCID5	txNextAck=545	txNext=545	winPDU=1	txWinBytes=186	totalTxBytes=106155	poll=393
+PDCP	28518.825	RB4	count=1379	discard=0/0B	RXpkt=1383	RXbytes=257513	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28519.325	LCID5	txNextAck=555	txNext=555	winPDU=0	txWinBytes=0	totalTxBytes=108022	poll=400
+PDCP	28519.325	RB4	count=1389	discard=0/0B	RXpkt=1391	RXbytes=259001	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28519.825	LCID5	txNextAck=563	txNext=563	winPDU=0	txWinBytes=0	totalTxBytes=109588	poll=406
+PDCP	28519.825	RB4	count=1397	discard=0/0B	RXpkt=1400	RXbytes=260675	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28520.325	LCID5	txNextAck=574	txNext=575	winPDU=2	txWinBytes=259	totalTxBytes=111966	poll=412
+PDCP	28520.325	RB4	count=1409	discard=0/0B	RXpkt=1412	RXbytes=262791	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28520.825	LCID5	txNextAck=583	txNext=584	winPDU=1	txWinBytes=186	totalTxBytes=113658	poll=419
+PDCP	28520.825	RB4	count=1418	discard=0/0B	RXpkt=1420	RXbytes=264279	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28521.325	LCID5	txNextAck=592	txNext=592	winPDU=0	txWinBytes=0	totalTxBytes=115231	poll=425
+PDCP	28521.325	RB4	count=1426	discard=0/0B	RXpkt=1428	RXbytes=265767	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28521.825	LCID5	txNextAck=600	txNext=600	winPDU=0	txWinBytes=0	totalTxBytes=116804	poll=431
+PDCP	28521.825	RB4	count=1434	discard=0/0B	RXpkt=1437	RXbytes=267441	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28522.325	LCID5	txNextAck=610	txNext=610	winPDU=0	txWinBytes=0	totalTxBytes=118580	poll=437
+PDCP	28522.325	RB4	count=1444	discard=0/0B	RXpkt=1447	RXbytes=269109	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28522.825	LCID5	txNextAck=618	txNext=618	winPDU=1	txWinBytes=186	totalTxBytes=120334	poll=443
+PDCP	28522.825	RB4	count=1452	discard=0/0B	RXpkt=1456	RXbytes=270783	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28523.325	LCID5	txNextAck=663	txNext=672	winPDU=9	txWinBytes=1151	totalTxBytes=137357	poll=455
+PDCP	28523.325	RB4	count=1506	discard=0/0B	RXpkt=1509	RXbytes=287267	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28523.825	LCID5	txNextAck=689	txNext=689	winPDU=0	txWinBytes=0	totalTxBytes=140014	poll=462
+PDCP	28523.825	RB4	count=1523	discard=0/0B	RXpkt=1525	RXbytes=289574	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28524.325	LCID5	txNextAck=696	txNext=696	winPDU=0	txWinBytes=0	totalTxBytes=141407	poll=468
+PDCP	28524.325	RB4	count=1530	discard=0/0B	RXpkt=1534	RXbytes=291248	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28524.825	LCID5	txNextAck=705	txNext=705	winPDU=1	txWinBytes=186	totalTxBytes=143353	poll=474
+PDCP	28524.825	RB4	count=1539	discard=0/0B	RXpkt=1542	RXbytes=292736	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28525.325	LCID5	txNextAck=717	txNext=717	winPDU=0	txWinBytes=0	totalTxBytes=145563	poll=481
+PDCP	28525.325	RB4	count=1551	discard=0/0B	RXpkt=1553	RXbytes=294779	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28525.825	LCID5	txNextAck=726	txNext=726	winPDU=0	txWinBytes=0	totalTxBytes=147217	poll=487
+PDCP	28525.825	RB4	count=1560	discard=0/0B	RXpkt=1563	RXbytes=296526	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28526.325	LCID5	txNextAck=734	txNext=734	winPDU=0	txWinBytes=0	totalTxBytes=148783	poll=493
+PDCP	28526.325	RB4	count=1568	discard=0/0B	RXpkt=1571	RXbytes=298014	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28526.825	LCID5	txNextAck=742	txNext=742	winPDU=1	txWinBytes=186	totalTxBytes=150537	poll=499
+PDCP	28526.825	RB4	count=1576	discard=0/0B	RXpkt=1579	RXbytes=299502	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28527.325	LCID5	txNextAck=751	txNext=751	winPDU=0	txWinBytes=0	totalTxBytes=152109	poll=506
+PDCP	28527.325	RB4	count=1585	discard=0/0B	RXpkt=1588	RXbytes=301176	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28527.825	LCID5	txNextAck=759	txNext=759	winPDU=0	txWinBytes=0	totalTxBytes=153675	poll=512
+PDCP	28527.825	RB4	count=1593	discard=0/0B	RXpkt=1596	RXbytes=302664	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28528.325	LCID5	txNextAck=767	txNext=767	winPDU=0	txWinBytes=0	totalTxBytes=155234	poll=518
+PDCP	28528.325	RB4	count=1601	discard=0/0B	RXpkt=1604	RXbytes=304152	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28528.825	LCID5	txNextAck=775	txNext=775	winPDU=1	txWinBytes=186	totalTxBytes=156995	poll=524
+PDCP	28528.825	RB4	count=1609	discard=0/0B	RXpkt=1613	RXbytes=305826	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28529.290	LCID5	txNextAck=783	txNext=783	winPDU=0	txWinBytes=0	totalTxBytes=158401	poll=530
+PDCP	28529.290	RB4	count=1617	discard=0/0B	RXpkt=1620	RXbytes=307128	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28529.290	LCID5	txNextAck=783	txNext=783	winPDU=0	txWinBytes=0	totalTxBytes=158401	poll=530
+PDCP	28529.290	RB4	count=1617	discard=0/0B	RXpkt=1620	RXbytes=307128	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28529.325	LCID5	txNextAck=783	txNext=783	winPDU=0	txWinBytes=0	totalTxBytes=158401	poll=530
+PDCP	28529.325	RB4	count=1617	discard=0/0B	RXpkt=1621	RXbytes=307314	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28529.417	LCID5	txNextAck=783	txNext=783	winPDU=0	txWinBytes=0	totalTxBytes=158401	poll=530
+PDCP	28529.417	RB4	count=1617	discard=0/0B	RXpkt=1622	RXbytes=307500	WMpkt=3	WMbytes=558	state=LOW_ENABLED
+RLC	28529.417	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28529.417	RB4	count=1617	discard=0/0B	RXpkt=1623	RXbytes=307505	WMpkt=4	WMbytes=563	state=LOW_ENABLED
+RLC	28529.825	LCID5	txNextAck=10	txNext=10	winPDU=0	txWinBytes=0	totalTxBytes=1777	poll=5
+PDCP	28529.825	RB4	count=1626	discard=0/0B	RXpkt=1630	RXbytes=308807	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28530.325	LCID5	txNextAck=31	txNext=42	winPDU=11	txWinBytes=898	totalTxBytes=12132	poll=15
+PDCP	28530.325	RB4	count=1658	discard=0/0B	RXpkt=1662	RXbytes=318829	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28530.825	LCID5	txNextAck=53	txNext=53	winPDU=0	txWinBytes=0	totalTxBytes=14080	poll=23
+PDCP	28530.825	RB4	count=1669	discard=0/0B	RXpkt=1672	RXbytes=320482	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28531.325	LCID5	txNextAck=61	txNext=61	winPDU=0	txWinBytes=0	totalTxBytes=15646	poll=29
+PDCP	28531.325	RB4	count=1677	discard=0/0B	RXpkt=1680	RXbytes=321970	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28531.825	LCID5	txNextAck=69	txNext=69	winPDU=0	txWinBytes=0	totalTxBytes=17205	poll=35
+PDCP	28531.825	RB4	count=1685	discard=0/0B	RXpkt=1689	RXbytes=323644	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28532.325	LCID5	txNextAck=77	txNext=77	winPDU=0	txWinBytes=0	totalTxBytes=18792	poll=41
+PDCP	28532.325	RB4	count=1693	discard=0/0B	RXpkt=1697	RXbytes=325132	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28532.825	LCID5	txNextAck=85	txNext=85	winPDU=0	txWinBytes=0	totalTxBytes=20358	poll=47
+PDCP	28532.825	RB4	count=1701	discard=0/0B	RXpkt=1705	RXbytes=326620	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28533.325	LCID5	txNextAck=94	txNext=94	winPDU=0	txWinBytes=0	totalTxBytes=22139	poll=54
+PDCP	28533.325	RB4	count=1710	discard=0/0B	RXpkt=1714	RXbytes=328294	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28533.825	LCID5	txNextAck=102	txNext=102	winPDU=0	txWinBytes=0	totalTxBytes=23705	poll=60
+PDCP	28533.825	RB4	count=1718	discard=0/0B	RXpkt=1722	RXbytes=329782	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28534.325	LCID5	txNextAck=110	txNext=110	winPDU=0	txWinBytes=0	totalTxBytes=25271	poll=66
+PDCP	28534.325	RB4	count=1726	discard=0/0B	RXpkt=1730	RXbytes=331270	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28534.825	LCID5	txNextAck=122	txNext=122	winPDU=0	txWinBytes=0	totalTxBytes=27339	poll=73
+PDCP	28534.825	RB4	count=1738	discard=0/0B	RXpkt=1742	RXbytes=333214	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28535.325	LCID5	txNextAck=164	txNext=167	winPDU=5	txWinBytes=503	totalTxBytes=42721	poll=83
+PDCP	28535.325	RB4	count=1783	discard=0/0B	RXpkt=1790	RXbytes=348294	WMpkt=2	WMbytes=160	state=LOW_ENABLED
+RLC	28535.825	LCID5	txNextAck=178	txNext=178	winPDU=0	txWinBytes=0	totalTxBytes=44408	poll=90
+PDCP	28535.825	RB4	count=1794	discard=0/0B	RXpkt=1798	RXbytes=349782	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28536.325	LCID5	txNextAck=187	txNext=187	winPDU=0	txWinBytes=0	totalTxBytes=46189	poll=96
+PDCP	28536.325	RB4	count=1803	discard=0/0B	RXpkt=1807	RXbytes=351456	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28536.825	LCID5	txNextAck=194	txNext=195	winPDU=2	txWinBytes=372	totalTxBytes=47802	poll=102
+PDCP	28536.825	RB4	count=1811	discard=0/0B	RXpkt=1815	RXbytes=352944	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28537.325	LCID5	txNextAck=204	txNext=204	winPDU=0	txWinBytes=0	totalTxBytes=49515	poll=109
+PDCP	28537.325	RB4	count=1820	discard=0/0B	RXpkt=1823	RXbytes=354432	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28537.825	LCID5	txNextAck=212	txNext=212	winPDU=0	txWinBytes=0	totalTxBytes=51081	poll=115
+PDCP	28537.825	RB4	count=1828	discard=0/0B	RXpkt=1832	RXbytes=356106	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28538.325	LCID5	txNextAck=220	txNext=220	winPDU=0	txWinBytes=0	totalTxBytes=52647	poll=121
+PDCP	28538.325	RB4	count=1836	discard=0/0B	RXpkt=1840	RXbytes=357594	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28538.825	LCID5	txNextAck=228	txNext=229	winPDU=1	txWinBytes=186	totalTxBytes=54407	poll=128
+PDCP	28538.825	RB4	count=1845	discard=0/0B	RXpkt=1848	RXbytes=359082	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28539.325	LCID5	txNextAck=237	txNext=237	winPDU=0	txWinBytes=0	totalTxBytes=55973	poll=134
+PDCP	28539.325	RB4	count=1853	discard=0/0B	RXpkt=1857	RXbytes=360756	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28539.825	LCID5	txNextAck=245	txNext=245	winPDU=0	txWinBytes=0	totalTxBytes=57539	poll=140
+PDCP	28539.825	RB4	count=1861	discard=0/0B	RXpkt=1865	RXbytes=362244	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28540.325	LCID5	txNextAck=256	txNext=257	winPDU=1	txWinBytes=186	totalTxBytes=59885	poll=148
+PDCP	28540.325	RB4	count=1873	discard=0/0B	RXpkt=1877	RXbytes=364360	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+RLC	28540.825	LCID5	txNextAck=266	txNext=266	winPDU=0	txWinBytes=0	totalTxBytes=61532	poll=155
+PDCP	28540.825	RB4	count=1882	discard=0/0B	RXpkt=1886	RXbytes=366034	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28541.325	LCID5	txNextAck=274	txNext=274	winPDU=0	txWinBytes=0	totalTxBytes=63098	poll=161
+PDCP	28541.325	RB4	count=1890	discard=0/0B	RXpkt=1894	RXbytes=367522	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28541.825	LCID5	txNextAck=282	txNext=282	winPDU=0	txWinBytes=0	totalTxBytes=64664	poll=167
+PDCP	28541.825	RB4	count=1898	discard=0/0B	RXpkt=1902	RXbytes=369010	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28542.325	LCID5	txNextAck=290	txNext=290	winPDU=0	txWinBytes=0	totalTxBytes=66230	poll=173
+PDCP	28542.325	RB4	count=1906	discard=0/0B	RXpkt=1911	RXbytes=370684	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28542.825	LCID5	txNextAck=300	txNext=300	winPDU=0	txWinBytes=0	totalTxBytes=68191	poll=180
+PDCP	28542.825	RB4	count=1916	discard=0/0B	RXpkt=1919	RXbytes=372172	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28543.325	LCID5	txNextAck=308	txNext=308	winPDU=0	txWinBytes=0	totalTxBytes=69757	poll=186
+PDCP	28543.325	RB4	count=1924	discard=0/0B	RXpkt=1927	RXbytes=373660	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28543.825	LCID5	txNextAck=316	txNext=316	winPDU=0	txWinBytes=0	totalTxBytes=71337	poll=192
+PDCP	28543.825	RB4	count=1932	discard=0/0B	RXpkt=1936	RXbytes=375334	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28544.325	LCID5	txNextAck=323	txNext=323	winPDU=0	txWinBytes=0	totalTxBytes=72702	poll=198
+PDCP	28544.325	RB4	count=1939	discard=0/0B	RXpkt=1944	RXbytes=376822	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28544.825	LCID5	txNextAck=333	txNext=333	winPDU=0	txWinBytes=0	totalTxBytes=74670	poll=205
+PDCP	28544.825	RB4	count=1949	discard=0/0B	RXpkt=1952	RXbytes=378310	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28545.325	LCID5	txNextAck=343	txNext=344	winPDU=1	txWinBytes=381	totalTxBytes=76822	poll=212
+PDCP	28545.325	RB4	count=1960	discard=0/0B	RXpkt=1964	RXbytes=380539	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28545.825	LCID5	txNextAck=353	txNext=353	winPDU=0	txWinBytes=0	totalTxBytes=78469	poll=219
+PDCP	28545.825	RB4	count=1969	discard=0/0B	RXpkt=1973	RXbytes=382100	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28546.325	LCID5	txNextAck=361	txNext=361	winPDU=0	txWinBytes=0	totalTxBytes=80049	poll=225
+PDCP	28546.325	RB4	count=1977	discard=0/0B	RXpkt=1981	RXbytes=383588	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28546.825	LCID5	txNextAck=370	txNext=370	winPDU=0	txWinBytes=0	totalTxBytes=81809	poll=232
+PDCP	28546.825	RB4	count=1986	discard=0/0B	RXpkt=1990	RXbytes=385262	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28547.325	LCID5	txNextAck=378	txNext=378	winPDU=0	txWinBytes=0	totalTxBytes=83375	poll=238
+PDCP	28547.325	RB4	count=1994	discard=0/0B	RXpkt=1998	RXbytes=386750	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28547.825	LCID5	txNextAck=386	txNext=386	winPDU=0	txWinBytes=0	totalTxBytes=84941	poll=244
+PDCP	28547.825	RB4	count=2002	discard=0/0B	RXpkt=2006	RXbytes=388238	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28548.325	LCID5	txNextAck=394	txNext=394	winPDU=0	txWinBytes=0	totalTxBytes=86507	poll=250
+PDCP	28548.325	RB4	count=2010	discard=0/0B	RXpkt=2015	RXbytes=389912	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28548.825	LCID5	txNextAck=402	txNext=404	winPDU=2	txWinBytes=372	totalTxBytes=88468	poll=257
+PDCP	28548.825	RB4	count=2020	discard=0/0B	RXpkt=2023	RXbytes=391400	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28549.325	LCID5	txNextAck=412	txNext=412	winPDU=0	txWinBytes=0	totalTxBytes=90048	poll=263
+PDCP	28549.325	RB4	count=2028	discard=0/0B	RXpkt=2031	RXbytes=392888	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28549.825	LCID5	txNextAck=420	txNext=420	winPDU=0	txWinBytes=0	totalTxBytes=91607	poll=269
+PDCP	28549.825	RB4	count=2036	discard=0/0B	RXpkt=2040	RXbytes=394562	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28550.325	LCID5	txNextAck=430	txNext=430	winPDU=0	txWinBytes=0	totalTxBytes=93384	poll=274
+PDCP	28550.325	RB4	count=2046	discard=0/0B	RXpkt=2051	RXbytes=396605	WMpkt=2	WMbytes=567	state=LOW_ENABLED
+RLC	28550.825	LCID5	txNextAck=441	txNext=441	winPDU=0	txWinBytes=0	totalTxBytes=95621	poll=282
+PDCP	28550.825	RB4	count=2057	discard=0/0B	RXpkt=2060	RXbytes=398166	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28551.325	LCID5	txNextAck=449	txNext=449	winPDU=0	txWinBytes=0	totalTxBytes=97194	poll=288
+PDCP	28551.325	RB4	count=2065	discard=0/0B	RXpkt=2069	RXbytes=399840	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28551.825	LCID5	txNextAck=457	txNext=457	winPDU=0	txWinBytes=0	totalTxBytes=98774	poll=294
+PDCP	28551.825	RB4	count=2073	discard=0/0B	RXpkt=2077	RXbytes=401328	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28552.325	LCID5	txNextAck=465	txNext=465	winPDU=0	txWinBytes=0	totalTxBytes=100347	poll=300
+PDCP	28552.325	RB4	count=2081	discard=0/0B	RXpkt=2085	RXbytes=402816	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28552.825	LCID5	txNextAck=474	txNext=474	winPDU=0	txWinBytes=0	totalTxBytes=102135	poll=307
+PDCP	28552.825	RB4	count=2090	discard=0/0B	RXpkt=2094	RXbytes=404490	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28553.325	LCID5	txNextAck=482	txNext=482	winPDU=0	txWinBytes=0	totalTxBytes=103729	poll=313
+PDCP	28553.325	RB4	count=2098	discard=0/0B	RXpkt=2102	RXbytes=405978	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28553.825	LCID5	txNextAck=490	txNext=490	winPDU=0	txWinBytes=0	totalTxBytes=105295	poll=319
+PDCP	28553.825	RB4	count=2106	discard=0/0B	RXpkt=2110	RXbytes=407466	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28554.325	LCID5	txNextAck=498	txNext=498	winPDU=0	txWinBytes=0	totalTxBytes=106882	poll=325
+PDCP	28554.325	RB4	count=2114	discard=0/0B	RXpkt=2119	RXbytes=409140	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28554.825	LCID5	txNextAck=506	txNext=508	winPDU=2	txWinBytes=372	totalTxBytes=108871	poll=331
+PDCP	28554.825	RB4	count=2124	discard=0/0B	RXpkt=2127	RXbytes=410628	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28555.325	LCID5	txNextAck=518	txNext=519	winPDU=1	txWinBytes=381	totalTxBytes=111044	poll=338
+PDCP	28555.325	RB4	count=2135	discard=0/0B	RXpkt=2138	RXbytes=412671	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28555.825	LCID5	txNextAck=527	txNext=527	winPDU=0	txWinBytes=0	totalTxBytes=112497	poll=343
+PDCP	28555.825	RB4	count=2143	discard=0/0B	RXpkt=2147	RXbytes=414232	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28556.325	LCID5	txNextAck=536	txNext=536	winPDU=0	txWinBytes=0	totalTxBytes=114264	poll=349
+PDCP	28556.325	RB4	count=2152	discard=0/0B	RXpkt=2156	RXbytes=415906	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28556.825	LCID5	txNextAck=545	txNext=545	winPDU=0	txWinBytes=0	totalTxBytes=116038	poll=356
+PDCP	28556.825	RB4	count=2161	discard=0/0B	RXpkt=2164	RXbytes=417394	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28557.325	LCID5	txNextAck=553	txNext=553	winPDU=0	txWinBytes=0	totalTxBytes=117618	poll=362
+PDCP	28557.325	RB4	count=2169	discard=0/0B	RXpkt=2172	RXbytes=418882	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28557.825	LCID5	txNextAck=561	txNext=561	winPDU=0	txWinBytes=0	totalTxBytes=119212	poll=368
+PDCP	28557.825	RB4	count=2177	discard=0/0B	RXpkt=2181	RXbytes=420556	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28558.325	LCID5	txNextAck=569	txNext=569	winPDU=0	txWinBytes=0	totalTxBytes=120785	poll=374
+PDCP	28558.325	RB4	count=2185	discard=0/0B	RXpkt=2189	RXbytes=422044	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28558.825	LCID5	txNextAck=570	txNext=570	winPDU=0	txWinBytes=0	totalTxBytes=120979	poll=375
+PDCP	28558.825	RB4	count=2186	discard=0/0B	RXpkt=2189	RXbytes=422044	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28559.325	LCID5	txNextAck=570	txNext=570	winPDU=0	txWinBytes=0	totalTxBytes=120979	poll=375
+PDCP	28559.325	RB4	count=2186	discard=0/0B	RXpkt=2189	RXbytes=422044	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28559.825	LCID5	txNextAck=570	txNext=570	winPDU=0	txWinBytes=0	totalTxBytes=120979	poll=375
+PDCP	28559.825	RB4	count=2186	discard=0/0B	RXpkt=2189	RXbytes=422044	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28560.325	LCID5	txNextAck=572	txNext=572	winPDU=0	txWinBytes=0	totalTxBytes=121169	poll=376
+PDCP	28560.325	RB4	count=2188	discard=0/0B	RXpkt=2191	RXbytes=422218	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28560.825	LCID5	txNextAck=575	txNext=575	winPDU=0	txWinBytes=0	totalTxBytes=121757	poll=379
+PDCP	28560.825	RB4	count=2191	discard=0/0B	RXpkt=2194	RXbytes=422775	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28561.325	LCID5	txNextAck=578	txNext=578	winPDU=0	txWinBytes=0	totalTxBytes=122260	poll=382
+PDCP	28561.325	RB4	count=2194	discard=0/0B	RXpkt=2197	RXbytes=423247	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28561.825	LCID5	txNextAck=578	txNext=578	winPDU=0	txWinBytes=0	totalTxBytes=122260	poll=382
+PDCP	28561.825	RB4	count=2194	discard=0/0B	RXpkt=2197	RXbytes=423247	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28562.325	LCID5	txNextAck=579	txNext=579	winPDU=0	txWinBytes=0	totalTxBytes=122341	poll=383
+PDCP	28562.325	RB4	count=2195	discard=0/0B	RXpkt=2198	RXbytes=423320	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28562.825	LCID5	txNextAck=580	txNext=580	winPDU=0	txWinBytes=0	totalTxBytes=122452	poll=384
+PDCP	28562.825	RB4	count=2196	discard=0/0B	RXpkt=2199	RXbytes=423423	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28563.325	LCID5	txNextAck=589	txNext=589	winPDU=0	txWinBytes=0	totalTxBytes=124268	poll=389
+PDCP	28563.325	RB4	count=2205	discard=0/0B	RXpkt=2209	RXbytes=425325	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28563.825	LCID5	txNextAck=597	txNext=597	winPDU=0	txWinBytes=0	totalTxBytes=125834	poll=395
+PDCP	28563.825	RB4	count=2213	discard=0/0B	RXpkt=2217	RXbytes=426813	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28564.325	LCID5	txNextAck=605	txNext=605	winPDU=0	txWinBytes=0	totalTxBytes=127400	poll=401
+PDCP	28564.325	RB4	count=2221	discard=0/0B	RXpkt=2225	RXbytes=428301	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28564.825	LCID5	txNextAck=614	txNext=614	winPDU=0	txWinBytes=0	totalTxBytes=129160	poll=408
+PDCP	28564.825	RB4	count=2230	discard=0/0B	RXpkt=2234	RXbytes=429975	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28565.325	LCID5	txNextAck=624	txNext=626	winPDU=2	txWinBytes=567	totalTxBytes=131513	poll=416
+PDCP	28565.325	RB4	count=2242	discard=0/0B	RXpkt=2245	RXbytes=432018	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28565.825	LCID5	txNextAck=634	txNext=634	winPDU=0	txWinBytes=0	totalTxBytes=132959	poll=423
+PDCP	28565.825	RB4	count=2250	discard=0/0B	RXpkt=2254	RXbytes=433579	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28566.325	LCID5	txNextAck=642	txNext=642	winPDU=0	txWinBytes=0	totalTxBytes=134525	poll=429
+PDCP	28566.325	RB4	count=2258	discard=0/0B	RXpkt=2262	RXbytes=435067	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28566.825	LCID5	txNextAck=650	txNext=651	winPDU=2	txWinBytes=372	totalTxBytes=136303	poll=435
+PDCP	28566.825	RB4	count=2267	discard=0/0B	RXpkt=2271	RXbytes=436741	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28567.325	LCID5	txNextAck=660	txNext=660	winPDU=0	txWinBytes=0	totalTxBytes=138052	poll=442
+PDCP	28567.325	RB4	count=2276	discard=0/0B	RXpkt=2279	RXbytes=438229	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28567.825	LCID5	txNextAck=668	txNext=668	winPDU=0	txWinBytes=0	totalTxBytes=139611	poll=448
+PDCP	28567.825	RB4	count=2284	discard=0/0B	RXpkt=2288	RXbytes=439903	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28568.325	LCID5	txNextAck=676	txNext=676	winPDU=0	txWinBytes=0	totalTxBytes=141177	poll=454
+PDCP	28568.325	RB4	count=2292	discard=0/0B	RXpkt=2296	RXbytes=441391	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28568.825	LCID5	txNextAck=685	txNext=685	winPDU=0	txWinBytes=0	totalTxBytes=142944	poll=461
+PDCP	28568.825	RB4	count=2301	discard=0/0B	RXpkt=2304	RXbytes=442879	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28569.325	LCID5	txNextAck=693	txNext=693	winPDU=0	txWinBytes=0	totalTxBytes=144510	poll=467
+PDCP	28569.325	RB4	count=2309	discard=0/0B	RXpkt=2313	RXbytes=444553	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28569.516	LCID5	txNextAck=696	txNext=696	winPDU=0	txWinBytes=0	totalTxBytes=145099	poll=469
+PDCP	28569.516	RB4	count=2312	discard=0/0B	RXpkt=2316	RXbytes=445111	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28569.516	LCID5	txNextAck=696	txNext=696	winPDU=0	txWinBytes=0	totalTxBytes=145099	poll=469
+PDCP	28569.516	RB4	count=2312	discard=0/0B	RXpkt=2316	RXbytes=445111	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28569.576	LCID5	txNextAck=696	txNext=696	winPDU=0	txWinBytes=0	totalTxBytes=145099	poll=469
+PDCP	28569.576	RB4	count=2312	discard=0/0B	RXpkt=2317	RXbytes=445297	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28569.576	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28569.576	RB4	count=2312	discard=0/0B	RXpkt=2318	RXbytes=445302	WMpkt=3	WMbytes=377	state=LOW_ENABLED
+RLC	28569.825	LCID5	txNextAck=6	txNext=6	winPDU=0	txWinBytes=0	totalTxBytes=1008	poll=3
+PDCP	28569.825	RB4	count=2317	discard=0/0B	RXpkt=2322	RXbytes=446046	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28570.325	LCID5	txNextAck=16	txNext=18	winPDU=2	txWinBytes=567	totalTxBytes=3375	poll=10
+PDCP	28570.325	RB4	count=2329	discard=0/0B	RXpkt=2333	RXbytes=448089	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28570.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5057	poll=16
+PDCP	28570.825	RB4	count=2338	discard=0/0B	RXpkt=2343	RXbytes=449836	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28571.325	LCID5	txNextAck=35	txNext=35	winPDU=0	txWinBytes=0	totalTxBytes=6651	poll=22
+PDCP	28571.325	RB4	count=2346	discard=0/0B	RXpkt=2351	RXbytes=451324	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28571.825	LCID5	txNextAck=44	txNext=44	winPDU=0	txWinBytes=0	totalTxBytes=8354	poll=28
+PDCP	28571.825	RB4	count=2355	discard=0/0B	RXpkt=2360	RXbytes=452913	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28572.325	LCID5	txNextAck=53	txNext=53	winPDU=0	txWinBytes=0	totalTxBytes=10149	poll=35
+PDCP	28572.325	RB4	count=2364	discard=0/0B	RXpkt=2369	RXbytes=454587	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28572.825	LCID5	txNextAck=61	txNext=61	winPDU=0	txWinBytes=0	totalTxBytes=11729	poll=41
+PDCP	28572.825	RB4	count=2372	discard=0/0B	RXpkt=2377	RXbytes=456075	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28573.325	LCID5	txNextAck=69	txNext=69	winPDU=0	txWinBytes=0	totalTxBytes=13323	poll=47
+PDCP	28573.325	RB4	count=2380	discard=0/0B	RXpkt=2385	RXbytes=457563	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28573.825	LCID5	txNextAck=77	txNext=77	winPDU=0	txWinBytes=0	totalTxBytes=14903	poll=53
+PDCP	28573.825	RB4	count=2388	discard=0/0B	RXpkt=2394	RXbytes=459237	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28574.325	LCID5	txNextAck=87	txNext=87	winPDU=0	txWinBytes=0	totalTxBytes=16892	poll=60
+PDCP	28574.325	RB4	count=2398	discard=0/0B	RXpkt=2402	RXbytes=460725	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28574.825	LCID5	txNextAck=95	txNext=95	winPDU=0	txWinBytes=0	totalTxBytes=18472	poll=66
+PDCP	28574.825	RB4	count=2406	discard=0/0B	RXpkt=2410	RXbytes=462213	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28575.325	LCID5	txNextAck=106	txNext=107	winPDU=1	txWinBytes=73	totalTxBytes=20733	poll=73
+PDCP	28575.325	RB4	count=2418	discard=0/0B	RXpkt=2423	RXbytes=464515	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28575.825	LCID5	txNextAck=115	txNext=115	winPDU=0	txWinBytes=0	totalTxBytes=22327	poll=79
+PDCP	28575.825	RB4	count=2426	discard=0/0B	RXpkt=2431	RXbytes=466003	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28576.325	LCID5	txNextAck=124	txNext=124	winPDU=0	txWinBytes=0	totalTxBytes=24122	poll=86
+PDCP	28576.325	RB4	count=2435	discard=0/0B	RXpkt=2439	RXbytes=467491	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28576.825	LCID5	txNextAck=132	txNext=132	winPDU=0	txWinBytes=0	totalTxBytes=25688	poll=92
+PDCP	28576.825	RB4	count=2443	discard=0/0B	RXpkt=2448	RXbytes=469165	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28577.325	LCID5	txNextAck=140	txNext=140	winPDU=0	txWinBytes=0	totalTxBytes=27254	poll=98
+PDCP	28577.325	RB4	count=2451	discard=0/0B	RXpkt=2456	RXbytes=470653	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28577.825	LCID5	txNextAck=148	txNext=148	winPDU=0	txWinBytes=0	totalTxBytes=28820	poll=104
+PDCP	28577.825	RB4	count=2459	discard=0/0B	RXpkt=2464	RXbytes=472141	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28578.325	LCID5	txNextAck=156	txNext=157	winPDU=1	txWinBytes=186	totalTxBytes=30608	poll=111
+PDCP	28578.325	RB4	count=2468	discard=0/0B	RXpkt=2473	RXbytes=473815	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28578.825	LCID5	txNextAck=165	txNext=165	winPDU=0	txWinBytes=0	totalTxBytes=32209	poll=117
+PDCP	28578.825	RB4	count=2476	discard=0/0B	RXpkt=2481	RXbytes=475303	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28579.325	LCID5	txNextAck=173	txNext=173	winPDU=0	txWinBytes=0	totalTxBytes=33796	poll=123
+PDCP	28579.325	RB4	count=2484	discard=0/0B	RXpkt=2489	RXbytes=476791	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28579.825	LCID5	txNextAck=181	txNext=181	winPDU=0	txWinBytes=0	totalTxBytes=35383	poll=129
+PDCP	28579.825	RB4	count=2492	discard=0/0B	RXpkt=2498	RXbytes=478465	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28580.325	LCID5	txNextAck=192	txNext=193	winPDU=2	txWinBytes=567	totalTxBytes=37644	poll=136
+PDCP	28580.325	RB4	count=2504	discard=0/0B	RXpkt=2509	RXbytes=480508	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28580.825	LCID5	txNextAck=203	txNext=203	winPDU=0	txWinBytes=0	totalTxBytes=39592	poll=143
+PDCP	28580.825	RB4	count=2514	discard=0/0B	RXpkt=2518	RXbytes=482069	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28581.325	LCID5	txNextAck=211	txNext=211	winPDU=0	txWinBytes=0	totalTxBytes=41158	poll=149
+PDCP	28581.325	RB4	count=2522	discard=0/0B	RXpkt=2526	RXbytes=483557	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28581.825	LCID5	txNextAck=219	txNext=219	winPDU=0	txWinBytes=0	totalTxBytes=42731	poll=155
+PDCP	28581.825	RB4	count=2530	discard=0/0B	RXpkt=2535	RXbytes=485231	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28582.325	LCID5	txNextAck=228	txNext=228	winPDU=0	txWinBytes=0	totalTxBytes=44491	poll=162
+PDCP	28582.325	RB4	count=2539	discard=0/0B	RXpkt=2543	RXbytes=486719	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28582.825	LCID5	txNextAck=242	txNext=242	winPDU=0	txWinBytes=0	totalTxBytes=50486	poll=170
+PDCP	28582.825	RB4	count=2553	discard=0/0B	RXpkt=2557	RXbytes=492577	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28583.325	LCID5	txNextAck=255	txNext=255	winPDU=0	txWinBytes=0	totalTxBytes=53854	poll=177
+PDCP	28583.325	RB4	count=2566	discard=0/0B	RXpkt=2571	RXbytes=495998	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28583.825	LCID5	txNextAck=263	txNext=263	winPDU=0	txWinBytes=0	totalTxBytes=55420	poll=183
+PDCP	28583.825	RB4	count=2574	discard=0/0B	RXpkt=2579	RXbytes=497486	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28584.325	LCID5	txNextAck=272	txNext=272	winPDU=0	txWinBytes=0	totalTxBytes=57180	poll=190
+PDCP	28584.325	RB4	count=2583	discard=0/0B	RXpkt=2588	RXbytes=499160	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28584.825	LCID5	txNextAck=282	txNext=283	winPDU=1	txWinBytes=186	totalTxBytes=59135	poll=197
+PDCP	28584.825	RB4	count=2594	discard=0/0B	RXpkt=2598	RXbytes=500820	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28585.325	LCID5	txNextAck=312	txNext=313	winPDU=2	txWinBytes=259	totalTxBytes=67936	poll=207
+PDCP	28585.325	RB4	count=2624	discard=0/0B	RXpkt=2629	RXbytes=509316	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28585.825	LCID5	txNextAck=329	txNext=329	winPDU=0	txWinBytes=0	totalTxBytes=71433	poll=215
+PDCP	28585.825	RB4	count=2640	discard=0/0B	RXpkt=2644	RXbytes=512611	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28586.325	LCID5	txNextAck=338	txNext=338	winPDU=0	txWinBytes=0	totalTxBytes=73200	poll=221
+PDCP	28586.325	RB4	count=2649	discard=0/0B	RXpkt=2653	RXbytes=514285	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28586.825	LCID5	txNextAck=348	txNext=348	winPDU=0	txWinBytes=0	totalTxBytes=74871	poll=227
+PDCP	28586.825	RB4	count=2659	discard=0/0B	RXpkt=2664	RXbytes=516048	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28587.325	LCID5	txNextAck=357	txNext=357	winPDU=0	txWinBytes=0	totalTxBytes=76638	poll=233
+PDCP	28587.325	RB4	count=2668	discard=0/0B	RXpkt=2673	RXbytes=517722	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28587.825	LCID5	txNextAck=365	txNext=365	winPDU=0	txWinBytes=0	totalTxBytes=78218	poll=239
+PDCP	28587.825	RB4	count=2676	discard=0/0B	RXpkt=2681	RXbytes=519210	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28588.325	LCID5	txNextAck=374	txNext=374	winPDU=0	txWinBytes=0	totalTxBytes=79978	poll=246
+PDCP	28588.325	RB4	count=2685	discard=0/0B	RXpkt=2689	RXbytes=520698	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28588.825	LCID5	txNextAck=382	txNext=382	winPDU=0	txWinBytes=0	totalTxBytes=81544	poll=252
+PDCP	28588.825	RB4	count=2693	discard=0/0B	RXpkt=2698	RXbytes=522372	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28589.325	LCID5	txNextAck=390	txNext=390	winPDU=0	txWinBytes=0	totalTxBytes=83117	poll=258
+PDCP	28589.325	RB4	count=2701	discard=0/0B	RXpkt=2706	RXbytes=523860	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28589.825	LCID5	txNextAck=398	txNext=398	winPDU=0	txWinBytes=0	totalTxBytes=84683	poll=264
+PDCP	28589.825	RB4	count=2709	discard=0/0B	RXpkt=2714	RXbytes=525348	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28590.325	LCID5	txNextAck=410	txNext=410	winPDU=0	txWinBytes=0	totalTxBytes=87050	poll=271
+PDCP	28590.325	RB4	count=2721	discard=0/0B	RXpkt=2726	RXbytes=527577	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28590.825	LCID5	txNextAck=419	txNext=419	winPDU=0	txWinBytes=0	totalTxBytes=88704	poll=277
+PDCP	28590.825	RB4	count=2730	discard=0/0B	RXpkt=2735	RXbytes=529138	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28591.325	LCID5	txNextAck=427	txNext=427	winPDU=0	txWinBytes=0	totalTxBytes=90270	poll=283
+PDCP	28591.325	RB4	count=2738	discard=0/0B	RXpkt=2743	RXbytes=530626	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28591.825	LCID5	txNextAck=435	txNext=435	winPDU=0	txWinBytes=0	totalTxBytes=91843	poll=289
+PDCP	28591.825	RB4	count=2746	discard=0/0B	RXpkt=2751	RXbytes=532114	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28592.325	LCID5	txNextAck=445	txNext=445	winPDU=0	txWinBytes=0	totalTxBytes=93804	poll=296
+PDCP	28592.325	RB4	count=2756	discard=0/0B	RXpkt=2760	RXbytes=533788	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28592.825	LCID5	txNextAck=453	txNext=453	winPDU=0	txWinBytes=0	totalTxBytes=95370	poll=302
+PDCP	28592.825	RB4	count=2764	discard=0/0B	RXpkt=2768	RXbytes=535276	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28593.325	LCID5	txNextAck=461	txNext=461	winPDU=0	txWinBytes=0	totalTxBytes=96936	poll=308
+PDCP	28593.325	RB4	count=2772	discard=0/0B	RXpkt=2777	RXbytes=536950	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28593.825	LCID5	txNextAck=468	txNext=468	winPDU=0	txWinBytes=0	totalTxBytes=98308	poll=314
+PDCP	28593.825	RB4	count=2779	discard=0/0B	RXpkt=2785	RXbytes=538438	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28594.325	LCID5	txNextAck=478	txNext=478	winPDU=0	txWinBytes=0	totalTxBytes=100269	poll=321
+PDCP	28594.325	RB4	count=2789	discard=0/0B	RXpkt=2793	RXbytes=539926	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28594.825	LCID5	txNextAck=486	txNext=486	winPDU=0	txWinBytes=0	totalTxBytes=101835	poll=327
+PDCP	28594.825	RB4	count=2797	discard=0/0B	RXpkt=2801	RXbytes=541414	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28595.325	LCID5	txNextAck=497	txNext=498	winPDU=1	txWinBytes=186	totalTxBytes=104181	poll=335
+PDCP	28595.325	RB4	count=2809	discard=0/0B	RXpkt=2814	RXbytes=543716	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+RLC	28595.825	LCID5	txNextAck=506	txNext=506	winPDU=0	txWinBytes=0	totalTxBytes=105634	poll=341
+PDCP	28595.825	RB4	count=2817	discard=0/0B	RXpkt=2822	RXbytes=545204	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28596.325	LCID5	txNextAck=515	txNext=515	winPDU=0	txWinBytes=0	totalTxBytes=107387	poll=348
+PDCP	28596.325	RB4	count=2826	discard=0/0B	RXpkt=2831	RXbytes=546878	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28596.825	LCID5	txNextAck=523	txNext=523	winPDU=0	txWinBytes=0	totalTxBytes=108953	poll=354
+PDCP	28596.825	RB4	count=2834	discard=0/0B	RXpkt=2839	RXbytes=548366	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28597.325	LCID5	txNextAck=531	txNext=531	winPDU=0	txWinBytes=0	totalTxBytes=110519	poll=360
+PDCP	28597.325	RB4	count=2842	discard=0/0B	RXpkt=2847	RXbytes=549854	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28597.825	LCID5	txNextAck=539	txNext=539	winPDU=0	txWinBytes=0	totalTxBytes=112085	poll=366
+PDCP	28597.825	RB4	count=2850	discard=0/0B	RXpkt=2856	RXbytes=551528	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28598.325	LCID5	txNextAck=549	txNext=549	winPDU=0	txWinBytes=0	totalTxBytes=114046	poll=373
+PDCP	28598.325	RB4	count=2860	discard=0/0B	RXpkt=2864	RXbytes=553016	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28598.825	LCID5	txNextAck=557	txNext=557	winPDU=0	txWinBytes=0	totalTxBytes=115612	poll=379
+PDCP	28598.825	RB4	count=2868	discard=0/0B	RXpkt=2872	RXbytes=554504	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28599.325	LCID5	txNextAck=565	txNext=565	winPDU=0	txWinBytes=0	totalTxBytes=117178	poll=385
+PDCP	28599.325	RB4	count=2876	discard=0/0B	RXpkt=2881	RXbytes=556178	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28599.825	LCID5	txNextAck=572	txNext=572	winPDU=0	txWinBytes=0	totalTxBytes=118557	poll=391
+PDCP	28599.825	RB4	count=2883	discard=0/0B	RXpkt=2889	RXbytes=557666	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28600.325	LCID5	txNextAck=584	txNext=585	winPDU=1	txWinBytes=381	totalTxBytes=121104	poll=399
+PDCP	28600.325	RB4	count=2896	discard=0/0B	RXpkt=2900	RXbytes=559709	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28600.825	LCID5	txNextAck=594	txNext=594	winPDU=0	txWinBytes=0	totalTxBytes=122758	poll=405
+PDCP	28600.825	RB4	count=2905	discard=0/0B	RXpkt=2910	RXbytes=561456	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28601.325	LCID5	txNextAck=602	txNext=602	winPDU=0	txWinBytes=0	totalTxBytes=124324	poll=411
+PDCP	28601.325	RB4	count=2913	discard=0/0B	RXpkt=2918	RXbytes=562944	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28601.825	LCID5	txNextAck=610	txNext=610	winPDU=0	txWinBytes=0	totalTxBytes=125890	poll=417
+PDCP	28601.825	RB4	count=2921	discard=0/0B	RXpkt=2926	RXbytes=564432	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28602.325	LCID5	txNextAck=619	txNext=619	winPDU=0	txWinBytes=0	totalTxBytes=127657	poll=424
+PDCP	28602.325	RB4	count=2930	discard=0/0B	RXpkt=2934	RXbytes=565920	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28602.825	LCID5	txNextAck=627	txNext=627	winPDU=0	txWinBytes=0	totalTxBytes=129223	poll=430
+PDCP	28602.825	RB4	count=2938	discard=0/0B	RXpkt=2943	RXbytes=567594	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28603.325	LCID5	txNextAck=635	txNext=635	winPDU=0	txWinBytes=0	totalTxBytes=130789	poll=436
+PDCP	28603.325	RB4	count=2946	discard=0/0B	RXpkt=2951	RXbytes=569082	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28603.825	LCID5	txNextAck=643	txNext=643	winPDU=0	txWinBytes=0	totalTxBytes=132355	poll=442
+PDCP	28603.825	RB4	count=2954	discard=0/0B	RXpkt=2960	RXbytes=570756	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28604.325	LCID5	txNextAck=653	txNext=653	winPDU=0	txWinBytes=0	totalTxBytes=134309	poll=449
+PDCP	28604.325	RB4	count=2964	discard=0/0B	RXpkt=2968	RXbytes=572244	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28604.825	LCID5	txNextAck=661	txNext=661	winPDU=0	txWinBytes=0	totalTxBytes=135875	poll=455
+PDCP	28604.825	RB4	count=2972	discard=0/0B	RXpkt=2976	RXbytes=573732	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28605.325	LCID5	txNextAck=672	txNext=672	winPDU=0	txWinBytes=0	totalTxBytes=138035	poll=462
+PDCP	28605.325	RB4	count=2983	discard=0/0B	RXpkt=2988	RXbytes=575848	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+RLC	28605.825	LCID5	txNextAck=680	txNext=680	winPDU=0	txWinBytes=0	totalTxBytes=139502	poll=468
+PDCP	28605.825	RB4	count=2991	discard=0/0B	RXpkt=2997	RXbytes=577522	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28606.325	LCID5	txNextAck=690	txNext=690	winPDU=0	txWinBytes=0	totalTxBytes=141491	poll=475
+PDCP	28606.325	RB4	count=3001	discard=0/0B	RXpkt=3005	RXbytes=579010	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28606.825	LCID5	txNextAck=698	txNext=698	winPDU=0	txWinBytes=0	totalTxBytes=143057	poll=481
+PDCP	28606.825	RB4	count=3009	discard=0/0B	RXpkt=3014	RXbytes=580684	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28607.325	LCID5	txNextAck=706	txNext=706	winPDU=0	txWinBytes=0	totalTxBytes=144623	poll=487
+PDCP	28607.325	RB4	count=3017	discard=0/0B	RXpkt=3022	RXbytes=582172	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28607.825	LCID5	txNextAck=714	txNext=714	winPDU=0	txWinBytes=0	totalTxBytes=146189	poll=493
+PDCP	28607.825	RB4	count=3025	discard=0/0B	RXpkt=3030	RXbytes=583660	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28608.325	LCID5	txNextAck=723	txNext=723	winPDU=0	txWinBytes=0	totalTxBytes=147949	poll=500
+PDCP	28608.325	RB4	count=3034	discard=0/0B	RXpkt=3038	RXbytes=585148	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28608.659	LCID5	txNextAck=727	txNext=729	winPDU=2	txWinBytes=372	totalTxBytes=149127	poll=504
+PDCP	28608.659	RB4	count=3040	discard=0/0B	RXpkt=3044	RXbytes=586264	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28608.659	LCID5	txNextAck=727	txNext=729	winPDU=2	txWinBytes=372	totalTxBytes=149127	poll=504
+PDCP	28608.659	RB4	count=3040	discard=0/0B	RXpkt=3044	RXbytes=586264	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28608.776	LCID5	txNextAck=727	txNext=729	winPDU=2	txWinBytes=372	totalTxBytes=149127	poll=504
+PDCP	28608.776	RB4	count=3040	discard=0/0B	RXpkt=3046	RXbytes=586636	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28608.776	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28608.776	RB4	count=3040	discard=0/0B	RXpkt=3049	RXbytes=587013	WMpkt=5	WMbytes=749	state=LOW_ENABLED
+RLC	28608.825	LCID5	txNextAck=5	txNext=6	winPDU=1	txWinBytes=186	totalTxBytes=821	poll=2
+PDCP	28608.825	RB4	count=3043	discard=0/0B	RXpkt=3050	RXbytes=587199	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28609.325	LCID5	txNextAck=14	txNext=14	winPDU=0	txWinBytes=0	totalTxBytes=2394	poll=8
+PDCP	28609.325	RB4	count=3051	discard=0/0B	RXpkt=3058	RXbytes=588687	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28609.825	LCID5	txNextAck=22	txNext=22	winPDU=0	txWinBytes=0	totalTxBytes=3974	poll=14
+PDCP	28609.825	RB4	count=3059	discard=0/0B	RXpkt=3066	RXbytes=590175	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28610.325	LCID5	txNextAck=34	txNext=34	winPDU=0	txWinBytes=0	totalTxBytes=6334	poll=21
+PDCP	28610.325	RB4	count=3071	discard=0/0B	RXpkt=3079	RXbytes=592477	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+RLC	28610.825	LCID5	txNextAck=42	txNext=43	winPDU=1	txWinBytes=186	totalTxBytes=8002	poll=28
+PDCP	28610.825	RB4	count=3080	discard=0/0B	RXpkt=3087	RXbytes=593965	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28611.325	LCID5	txNextAck=51	txNext=51	winPDU=0	txWinBytes=0	totalTxBytes=9568	poll=34
+PDCP	28611.325	RB4	count=3088	discard=0/0B	RXpkt=3095	RXbytes=595453	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28611.825	LCID5	txNextAck=59	txNext=59	winPDU=0	txWinBytes=0	totalTxBytes=11141	poll=40
+PDCP	28611.825	RB4	count=3096	discard=0/0B	RXpkt=3104	RXbytes=597127	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28612.325	LCID5	txNextAck=67	txNext=67	winPDU=0	txWinBytes=0	totalTxBytes=12714	poll=46
+PDCP	28612.325	RB4	count=3104	discard=0/0B	RXpkt=3112	RXbytes=598615	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28612.825	LCID5	txNextAck=75	txNext=76	winPDU=1	txWinBytes=186	totalTxBytes=14474	poll=53
+PDCP	28612.825	RB4	count=3113	discard=0/0B	RXpkt=3121	RXbytes=600289	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28613.325	LCID5	txNextAck=84	txNext=84	winPDU=0	txWinBytes=0	totalTxBytes=16061	poll=59
+PDCP	28613.325	RB4	count=3121	discard=0/0B	RXpkt=3129	RXbytes=601777	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28613.825	LCID5	txNextAck=92	txNext=92	winPDU=0	txWinBytes=0	totalTxBytes=17627	poll=65
+PDCP	28613.825	RB4	count=3129	discard=0/0B	RXpkt=3137	RXbytes=603265	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28614.325	LCID5	txNextAck=100	txNext=100	winPDU=0	txWinBytes=0	totalTxBytes=19214	poll=71
+PDCP	28614.325	RB4	count=3137	discard=0/0B	RXpkt=3145	RXbytes=604753	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28614.825	LCID5	txNextAck=108	txNext=110	winPDU=2	txWinBytes=372	totalTxBytes=21189	poll=78
+PDCP	28614.825	RB4	count=3147	discard=0/0B	RXpkt=3154	RXbytes=606427	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28615.325	LCID5	txNextAck=121	txNext=121	winPDU=0	txWinBytes=0	totalTxBytes=23355	poll=84
+PDCP	28615.325	RB4	count=3158	discard=0/0B	RXpkt=3165	RXbytes=608470	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28615.825	LCID5	txNextAck=130	txNext=130	winPDU=0	txWinBytes=0	totalTxBytes=25023	poll=90
+PDCP	28615.825	RB4	count=3167	discard=0/0B	RXpkt=3174	RXbytes=610031	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28616.325	LCID5	txNextAck=138	txNext=138	winPDU=0	txWinBytes=0	totalTxBytes=26589	poll=96
+PDCP	28616.325	RB4	count=3175	discard=0/0B	RXpkt=3183	RXbytes=611705	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28616.825	LCID5	txNextAck=147	txNext=147	winPDU=0	txWinBytes=0	totalTxBytes=28370	poll=103
+PDCP	28616.825	RB4	count=3184	discard=0/0B	RXpkt=3191	RXbytes=613193	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28617.325	LCID5	txNextAck=155	txNext=155	winPDU=0	txWinBytes=0	totalTxBytes=29936	poll=109
+PDCP	28617.325	RB4	count=3192	discard=0/0B	RXpkt=3200	RXbytes=614867	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28617.825	LCID5	txNextAck=163	txNext=163	winPDU=0	txWinBytes=0	totalTxBytes=31516	poll=115
+PDCP	28617.825	RB4	count=3200	discard=0/0B	RXpkt=3208	RXbytes=616355	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28618.325	LCID5	txNextAck=171	txNext=171	winPDU=0	txWinBytes=0	totalTxBytes=33082	poll=121
+PDCP	28618.325	RB4	count=3208	discard=0/0B	RXpkt=3216	RXbytes=617843	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28618.825	LCID5	txNextAck=179	txNext=180	winPDU=1	txWinBytes=186	totalTxBytes=34835	poll=128
+PDCP	28618.825	RB4	count=3217	discard=0/0B	RXpkt=3225	RXbytes=619517	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28619.325	LCID5	txNextAck=188	txNext=188	winPDU=0	txWinBytes=0	totalTxBytes=36408	poll=134
+PDCP	28619.325	RB4	count=3225	discard=0/0B	RXpkt=3233	RXbytes=621005	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28619.825	LCID5	txNextAck=196	txNext=196	winPDU=0	txWinBytes=0	totalTxBytes=37981	poll=140
+PDCP	28619.825	RB4	count=3233	discard=0/0B	RXpkt=3241	RXbytes=622493	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28620.325	LCID5	txNextAck=208	txNext=209	winPDU=1	txWinBytes=73	totalTxBytes=40429	poll=148
+PDCP	28620.325	RB4	count=3246	discard=0/0B	RXpkt=3254	RXbytes=624795	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28620.825	LCID5	txNextAck=216	txNext=218	winPDU=2	txWinBytes=372	totalTxBytes=42189	poll=155
+PDCP	28620.825	RB4	count=3255	discard=0/0B	RXpkt=3262	RXbytes=626283	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28621.325	LCID5	txNextAck=226	txNext=226	winPDU=0	txWinBytes=0	totalTxBytes=43748	poll=161
+PDCP	28621.325	RB4	count=3263	discard=0/0B	RXpkt=3270	RXbytes=627771	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28621.825	LCID5	txNextAck=234	txNext=234	winPDU=0	txWinBytes=0	totalTxBytes=45328	poll=167
+PDCP	28621.825	RB4	count=3271	discard=0/0B	RXpkt=3279	RXbytes=629445	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28622.325	LCID5	txNextAck=242	txNext=242	winPDU=0	txWinBytes=0	totalTxBytes=46894	poll=173
+PDCP	28622.325	RB4	count=3279	discard=0/0B	RXpkt=3287	RXbytes=630933	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28622.825	LCID5	txNextAck=255	txNext=256	winPDU=1	txWinBytes=186	totalTxBytes=51655	poll=182
+PDCP	28622.825	RB4	count=3293	discard=0/0B	RXpkt=3300	RXbytes=635372	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28623.325	LCID5	txNextAck=262	txNext=262	winPDU=0	txWinBytes=0	totalTxBytes=52841	poll=186
+PDCP	28623.325	RB4	count=3299	discard=0/0B	RXpkt=3306	RXbytes=636489	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28623.825	LCID5	txNextAck=262	txNext=262	winPDU=0	txWinBytes=0	totalTxBytes=52841	poll=186
+PDCP	28623.825	RB4	count=3299	discard=0/0B	RXpkt=3306	RXbytes=636489	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28624.325	LCID5	txNextAck=262	txNext=262	winPDU=0	txWinBytes=0	totalTxBytes=52841	poll=186
+PDCP	28624.325	RB4	count=3299	discard=0/0B	RXpkt=3306	RXbytes=636489	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28624.825	LCID5	txNextAck=262	txNext=262	winPDU=0	txWinBytes=0	totalTxBytes=52841	poll=186
+PDCP	28624.825	RB4	count=3299	discard=0/0B	RXpkt=3306	RXbytes=636489	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28625.325	LCID5	txNextAck=265	txNext=265	winPDU=0	txWinBytes=0	totalTxBytes=53448	poll=188
+PDCP	28625.325	RB4	count=3302	discard=0/0B	RXpkt=3309	RXbytes=637044	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28625.825	LCID5	txNextAck=266	txNext=266	winPDU=0	txWinBytes=0	totalTxBytes=53529	poll=189
+PDCP	28625.825	RB4	count=3303	discard=0/0B	RXpkt=3310	RXbytes=637117	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28626.325	LCID5	txNextAck=269	txNext=269	winPDU=0	txWinBytes=0	totalTxBytes=54062	poll=192
+PDCP	28626.325	RB4	count=3306	discard=0/0B	RXpkt=3313	RXbytes=637619	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28626.825	LCID5	txNextAck=270	txNext=270	winPDU=0	txWinBytes=0	totalTxBytes=54143	poll=193
+PDCP	28626.825	RB4	count=3307	discard=0/0B	RXpkt=3314	RXbytes=637692	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28627.325	LCID5	txNextAck=270	txNext=270	winPDU=0	txWinBytes=0	totalTxBytes=54143	poll=193
+PDCP	28627.325	RB4	count=3307	discard=0/0B	RXpkt=3314	RXbytes=637692	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28627.825	LCID5	txNextAck=271	txNext=271	winPDU=0	txWinBytes=0	totalTxBytes=54231	poll=194
+PDCP	28627.825	RB4	count=3308	discard=0/0B	RXpkt=3315	RXbytes=637765	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28628.325	LCID5	txNextAck=271	txNext=271	winPDU=0	txWinBytes=0	totalTxBytes=54231	poll=194
+PDCP	28628.325	RB4	count=3308	discard=0/0B	RXpkt=3315	RXbytes=637765	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28628.825	LCID5	txNextAck=271	txNext=271	winPDU=0	txWinBytes=0	totalTxBytes=54231	poll=194
+PDCP	28628.825	RB4	count=3308	discard=0/0B	RXpkt=3315	RXbytes=637765	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28629.325	LCID5	txNextAck=271	txNext=271	winPDU=0	txWinBytes=0	totalTxBytes=54231	poll=194
+PDCP	28629.325	RB4	count=3308	discard=0/0B	RXpkt=3315	RXbytes=637765	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28629.825	LCID5	txNextAck=271	txNext=271	winPDU=0	txWinBytes=0	totalTxBytes=54231	poll=194
+PDCP	28629.825	RB4	count=3308	discard=0/0B	RXpkt=3315	RXbytes=637765	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28630.325	LCID5	txNextAck=273	txNext=273	winPDU=0	txWinBytes=0	totalTxBytes=54428	poll=195
+PDCP	28630.325	RB4	count=3310	discard=0/0B	RXpkt=3317	RXbytes=637939	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28630.825	LCID5	txNextAck=275	txNext=275	winPDU=0	txWinBytes=0	totalTxBytes=54905	poll=197
+PDCP	28630.825	RB4	count=3312	discard=0/0B	RXpkt=3319	RXbytes=638393	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28631.325	LCID5	txNextAck=275	txNext=275	winPDU=0	txWinBytes=0	totalTxBytes=54905	poll=197
+PDCP	28631.325	RB4	count=3312	discard=0/0B	RXpkt=3319	RXbytes=638393	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28631.825	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28631.825	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28632.325	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28632.325	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28632.825	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28632.825	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28633.325	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28633.325	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28633.825	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28633.825	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28634.325	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28634.325	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28634.825	LCID5	txNextAck=276	txNext=276	winPDU=0	txWinBytes=0	totalTxBytes=55021	poll=198
+PDCP	28634.825	RB4	count=3313	discard=0/0B	RXpkt=3320	RXbytes=638494	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28635.325	LCID5	txNextAck=278	txNext=278	winPDU=0	txWinBytes=0	totalTxBytes=55218	poll=199
+PDCP	28635.325	RB4	count=3315	discard=0/0B	RXpkt=3322	RXbytes=638668	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28635.758	LCID5	txNextAck=280	txNext=280	winPDU=0	txWinBytes=0	totalTxBytes=55695	poll=201
+PDCP	28635.758	RB4	count=3317	discard=0/0B	RXpkt=3324	RXbytes=639122	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28635.758	LCID5	txNextAck=280	txNext=280	winPDU=0	txWinBytes=0	totalTxBytes=55695	poll=201
+PDCP	28635.758	RB4	count=3317	discard=0/0B	RXpkt=3324	RXbytes=639122	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28635.825	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28635.825	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=1	WMbytes=5	state=LOW_ENABLED
+RLC	28636.325	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28636.325	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28636.825	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28636.825	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28637.325	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28637.325	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28637.825	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28637.825	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28638.325	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28638.325	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28638.825	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28638.825	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28639.325	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28639.325	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28639.825	LCID5	txNextAck=1	txNext=1	winPDU=0	txWinBytes=0	totalTxBytes=10	poll=1
+PDCP	28639.825	RB4	count=3317	discard=0/0B	RXpkt=3325	RXbytes=639127	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28640.325	LCID5	txNextAck=3	txNext=4	winPDU=1	txWinBytes=381	totalTxBytes=603	poll=3
+PDCP	28640.325	RB4	count=3320	discard=0/0B	RXpkt=3328	RXbytes=639682	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28640.825	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28640.825	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28641.325	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28641.325	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28641.825	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28641.825	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28642.325	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28642.325	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28642.825	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28642.825	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28643.325	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28643.325	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28643.825	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28643.825	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28644.325	LCID5	txNextAck=8	txNext=8	winPDU=0	txWinBytes=0	totalTxBytes=1374	poll=6
+PDCP	28644.325	RB4	count=3324	discard=0/0B	RXpkt=3332	RXbytes=640413	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28644.825	LCID5	txNextAck=13	txNext=13	winPDU=0	txWinBytes=0	totalTxBytes=3310	poll=8
+PDCP	28644.825	RB4	count=3329	discard=0/0B	RXpkt=3337	RXbytes=642300	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28645.325	LCID5	txNextAck=16	txNext=17	winPDU=1	txWinBytes=73	totalTxBytes=3977	poll=11
+PDCP	28645.325	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28645.825	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28645.825	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28646.325	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28646.325	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28646.825	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28646.825	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28647.325	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28647.325	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28647.825	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28647.825	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28648.325	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28648.325	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28648.825	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28648.825	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28649.325	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28649.325	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28649.825	LCID5	txNextAck=17	txNext=17	winPDU=0	txWinBytes=0	totalTxBytes=3977	poll=11
+PDCP	28649.825	RB4	count=3333	discard=0/0B	RXpkt=3341	RXbytes=642928	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28650.325	LCID5	txNextAck=19	txNext=20	winPDU=1	txWinBytes=381	totalTxBytes=4577	poll=13
+PDCP	28650.325	RB4	count=3336	discard=0/0B	RXpkt=3344	RXbytes=643483	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28650.825	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28650.825	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28651.325	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28651.325	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28651.825	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28651.825	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28652.325	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28652.325	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28652.825	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28652.825	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28653.325	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28653.325	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28653.825	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28653.825	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28654.325	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28654.325	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28654.825	LCID5	txNextAck=21	txNext=21	winPDU=0	txWinBytes=0	totalTxBytes=4658	poll=14
+PDCP	28654.825	RB4	count=3337	discard=0/0B	RXpkt=3345	RXbytes=643556	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28655.325	LCID5	txNextAck=25	txNext=25	winPDU=0	txWinBytes=0	totalTxBytes=5017	poll=17
+PDCP	28655.325	RB4	count=3341	discard=0/0B	RXpkt=3350	RXbytes=644257	WMpkt=1	WMbytes=381	state=LOW_ENABLED
+RLC	28655.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28655.825	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28656.325	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28656.325	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28656.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28656.825	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28657.325	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28657.325	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28657.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28657.825	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28658.325	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28658.325	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28658.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28658.825	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28659.325	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28659.325	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28659.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=5494	poll=19
+PDCP	28659.825	RB4	count=3343	discard=0/0B	RXpkt=3351	RXbytes=644330	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28660.325	LCID5	txNextAck=38	txNext=38	winPDU=0	txWinBytes=0	totalTxBytes=9061	poll=26
+PDCP	28660.325	RB4	count=3354	discard=0/0B	RXpkt=3362	RXbytes=647771	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28660.825	LCID5	txNextAck=45	txNext=45	winPDU=0	txWinBytes=0	totalTxBytes=12344	poll=33
+PDCP	28660.825	RB4	count=3361	discard=0/0B	RXpkt=3369	RXbytes=650954	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28661.325	LCID5	txNextAck=54	txNext=54	winPDU=0	txWinBytes=0	totalTxBytes=16124	poll=42
+PDCP	28661.325	RB4	count=3370	discard=0/0B	RXpkt=3379	RXbytes=654720	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28661.825	LCID5	txNextAck=63	txNext=63	winPDU=0	txWinBytes=0	totalTxBytes=19576	poll=51
+PDCP	28661.825	RB4	count=3379	discard=0/0B	RXpkt=3388	RXbytes=658049	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28662.325	LCID5	txNextAck=72	txNext=72	winPDU=0	txWinBytes=0	totalTxBytes=23356	poll=60
+PDCP	28662.325	RB4	count=3388	discard=0/0B	RXpkt=3396	RXbytes=661609	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28662.825	LCID5	txNextAck=80	txNext=80	winPDU=0	txWinBytes=0	totalTxBytes=26409	poll=68
+PDCP	28662.825	RB4	count=3396	discard=0/0B	RXpkt=3405	RXbytes=665272	WMpkt=1	WMbytes=711	state=LOW_ENABLED
+RLC	28663.325	LCID5	txNextAck=88	txNext=88	winPDU=0	txWinBytes=0	totalTxBytes=30419	poll=76
+PDCP	28663.325	RB4	count=3404	discard=0/0B	RXpkt=3412	RXbytes=668455	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28663.825	LCID5	txNextAck=95	txNext=95	winPDU=0	txWinBytes=0	totalTxBytes=33703	poll=83
+PDCP	28663.825	RB4	count=3411	discard=0/0B	RXpkt=3419	RXbytes=671638	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28664.325	LCID5	txNextAck=103	txNext=103	winPDU=0	txWinBytes=0	totalTxBytes=37073	poll=91
+PDCP	28664.325	RB4	count=3419	discard=0/0B	RXpkt=3427	RXbytes=674894	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28664.825	LCID5	txNextAck=110	txNext=110	winPDU=0	txWinBytes=0	totalTxBytes=40356	poll=98
+PDCP	28664.825	RB4	count=3426	discard=0/0B	RXpkt=3434	RXbytes=678077	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28665.325	LCID5	txNextAck=122	txNext=122	winPDU=0	txWinBytes=0	totalTxBytes=44730	poll=108
+PDCP	28665.325	RB4	count=3438	discard=0/0B	RXpkt=3446	RXbytes=682295	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28665.825	LCID5	txNextAck=131	txNext=131	winPDU=0	txWinBytes=0	totalTxBytes=47876	poll=117
+PDCP	28665.825	RB4	count=3447	discard=0/0B	RXpkt=3456	RXbytes=686031	WMpkt=1	WMbytes=711	state=LOW_ENABLED
+RLC	28666.325	LCID5	txNextAck=139	txNext=139	winPDU=0	txWinBytes=0	totalTxBytes=51886	poll=125
+PDCP	28666.325	RB4	count=3455	discard=0/0B	RXpkt=3463	RXbytes=689214	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28666.825	LCID5	txNextAck=147	txNext=147	winPDU=0	txWinBytes=0	totalTxBytes=55256	poll=133
+PDCP	28666.825	RB4	count=3463	discard=0/0B	RXpkt=3472	RXbytes=692877	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28667.325	LCID5	txNextAck=155	txNext=155	winPDU=0	txWinBytes=0	totalTxBytes=58620	poll=141
+PDCP	28667.325	RB4	count=3471	discard=0/0B	RXpkt=3480	RXbytes=695829	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28667.825	LCID5	txNextAck=162	txNext=162	winPDU=0	txWinBytes=0	totalTxBytes=61903	poll=148
+PDCP	28667.825	RB4	count=3478	discard=0/0B	RXpkt=3487	RXbytes=699012	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28668.325	LCID5	txNextAck=172	txNext=172	winPDU=0	txWinBytes=0	totalTxBytes=65776	poll=158
+PDCP	28668.325	RB4	count=3488	discard=0/0B	RXpkt=3497	RXbytes=702748	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28668.825	LCID5	txNextAck=179	txNext=179	winPDU=0	txWinBytes=0	totalTxBytes=69052	poll=165
+PDCP	28668.825	RB4	count=3495	discard=0/0B	RXpkt=3504	RXbytes=706235	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28669.325	LCID5	txNextAck=187	txNext=187	winPDU=0	txWinBytes=0	totalTxBytes=72757	poll=173
+PDCP	28669.325	RB4	count=3503	discard=0/0B	RXpkt=3511	RXbytes=709418	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28669.825	LCID5	txNextAck=194	txNext=194	winPDU=0	txWinBytes=0	totalTxBytes=76040	poll=180
+PDCP	28669.825	RB4	count=3510	discard=0/0B	RXpkt=3518	RXbytes=712601	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28670.325	LCID5	txNextAck=202	txNext=204	winPDU=2	txWinBytes=176	totalTxBytes=79932	poll=189
+PDCP	28670.325	RB4	count=3520	discard=0/0B	RXpkt=3528	RXbytes=716369	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28670.825	LCID5	txNextAck=211	txNext=211	winPDU=0	txWinBytes=0	totalTxBytes=83525	poll=196
+PDCP	28670.825	RB4	count=3527	discard=0/0B	RXpkt=3535	RXbytes=719856	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28671.325	LCID5	txNextAck=217	txNext=218	winPDU=1	txWinBytes=557	totalTxBytes=86953	poll=203
+PDCP	28671.325	RB4	count=3534	discard=0/0B	RXpkt=3542	RXbytes=723189	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28671.825	LCID5	txNextAck=225	txNext=225	winPDU=0	txWinBytes=0	totalTxBytes=90080	poll=210
+PDCP	28671.825	RB4	count=3541	discard=0/0B	RXpkt=3549	RXbytes=726222	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28672.325	LCID5	txNextAck=233	txNext=234	winPDU=1	txWinBytes=407	totalTxBytes=93866	poll=219
+PDCP	28672.325	RB4	count=3550	discard=0/0B	RXpkt=3558	RXbytes=729885	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28672.825	LCID5	txNextAck=238	txNext=238	winPDU=1	txWinBytes=407	totalTxBytes=97136	poll=223
+PDCP	28672.825	RB4	count=3554	discard=0/0B	RXpkt=3563	RXbytes=733256	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28673.325	LCID5	txNextAck=245	txNext=245	winPDU=0	txWinBytes=0	totalTxBytes=100176	poll=230
+PDCP	28673.325	RB4	count=3561	discard=0/0B	RXpkt=3570	RXbytes=736135	WMpkt=1	WMbytes=103	state=LOW_ENABLED
+RLC	28673.825	LCID5	txNextAck=255	txNext=255	winPDU=0	txWinBytes=0	totalTxBytes=104049	poll=240
+PDCP	28673.825	RB4	count=3571	discard=0/0B	RXpkt=3579	RXbytes=739768	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28674.325	LCID5	txNextAck=264	txNext=265	winPDU=1	txWinBytes=407	totalTxBytes=107922	poll=250
+PDCP	28674.325	RB4	count=3581	discard=0/0B	RXpkt=3589	RXbytes=743504	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28674.825	LCID5	txNextAck=272	txNext=272	winPDU=0	txWinBytes=0	totalTxBytes=111212	poll=257
+PDCP	28674.825	RB4	count=3588	discard=0/0B	RXpkt=3596	RXbytes=746687	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28675.325	LCID5	txNextAck=280	txNext=280	winPDU=0	txWinBytes=0	totalTxBytes=114572	poll=265
+PDCP	28675.325	RB4	count=3596	discard=0/0B	RXpkt=3605	RXbytes=750018	WMpkt=1	WMbytes=73	state=LOW_ENABLED
+RLC	28675.825	LCID5	txNextAck=288	txNext=288	winPDU=0	txWinBytes=0	totalTxBytes=118271	poll=273
+PDCP	28675.825	RB4	count=3604	discard=0/0B	RXpkt=3612	RXbytes=753535	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28676.325	LCID5	txNextAck=294	txNext=294	winPDU=0	txWinBytes=0	totalTxBytes=121496	poll=279
+PDCP	28676.325	RB4	count=3610	discard=0/0B	RXpkt=3618	RXbytes=756675	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28676.825	LCID5	txNextAck=301	txNext=302	winPDU=1	txWinBytes=407	totalTxBytes=125185	poll=287
+PDCP	28676.825	RB4	count=3618	discard=0/0B	RXpkt=3626	RXbytes=760235	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28677.325	LCID5	txNextAck=309	txNext=310	winPDU=1	txWinBytes=741	totalTxBytes=128898	poll=295
+PDCP	28677.325	RB4	count=3626	discard=0/0B	RXpkt=3634	RXbytes=763825	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28677.825	LCID5	txNextAck=317	txNext=317	winPDU=0	txWinBytes=0	totalTxBytes=131854	poll=302
+PDCP	28677.825	RB4	count=3633	discard=0/0B	RXpkt=3642	RXbytes=767081	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28678.325	LCID5	txNextAck=325	txNext=325	winPDU=0	txWinBytes=0	totalTxBytes=135566	poll=310
+PDCP	28678.325	RB4	count=3641	discard=0/0B	RXpkt=3649	RXbytes=770264	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28678.784	LCID5	txNextAck=331	txNext=332	winPDU=1	txWinBytes=741	totalTxBytes=138857	poll=317
+PDCP	28678.784	RB4	count=3648	discard=0/0B	RXpkt=3656	RXbytes=773447	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28678.784	LCID5	txNextAck=331	txNext=332	winPDU=1	txWinBytes=741	totalTxBytes=138857	poll=317
+PDCP	28678.784	RB4	count=3648	discard=0/0B	RXpkt=3656	RXbytes=773447	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28678.825	LCID5	txNextAck=331	txNext=332	winPDU=1	txWinBytes=741	totalTxBytes=138857	poll=317
+PDCP	28678.825	RB4	count=3648	discard=0/0B	RXpkt=3656	RXbytes=773447	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28678.895	LCID5	txNextAck=331	txNext=332	winPDU=1	txWinBytes=741	totalTxBytes=138857	poll=317
+PDCP	28678.895	RB4	count=3648	discard=0/0B	RXpkt=3656	RXbytes=773447	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28678.895	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28678.895	RB4	count=3648	discard=0/0B	RXpkt=3658	RXbytes=774193	WMpkt=2	WMbytes=746	state=LOW_ENABLED
+RLC	28679.325	LCID5	txNextAck=5	txNext=5	winPDU=0	txWinBytes=0	totalTxBytes=2370	poll=5
+PDCP	28679.325	RB4	count=3652	discard=1/741B	RXpkt=3663	RXbytes=776896	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28679.825	LCID5	txNextAck=12	txNext=12	winPDU=0	txWinBytes=0	totalTxBytes=7279	poll=10
+PDCP	28679.825	RB4	count=3659	discard=1/741B	RXpkt=3670	RXbytes=782095	WMpkt=1	WMbytes=801	state=LOW_ENABLED
+RLC	28680.325	LCID5	txNextAck=21	txNext=21	winPDU=1	txWinBytes=741	totalTxBytes=11553	poll=17
+PDCP	28680.325	RB4	count=3668	discard=1/741B	RXpkt=3679	RXbytes=786034	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28680.825	LCID5	txNextAck=30	txNext=30	winPDU=0	txWinBytes=0	totalTxBytes=15197	poll=26
+PDCP	28680.825	RB4	count=3677	discard=1/741B	RXpkt=3687	RXbytes=788956	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28681.325	LCID5	txNextAck=38	txNext=38	winPDU=1	txWinBytes=711	totalTxBytes=18947	poll=34
+PDCP	28681.325	RB4	count=3685	discard=1/741B	RXpkt=3696	RXbytes=792619	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28681.825	LCID5	txNextAck=47	txNext=47	winPDU=0	txWinBytes=0	totalTxBytes=22377	poll=43
+PDCP	28681.825	RB4	count=3694	discard=1/741B	RXpkt=3704	RXbytes=795875	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28682.325	LCID5	txNextAck=57	txNext=57	winPDU=0	txWinBytes=0	totalTxBytes=26257	poll=53
+PDCP	28682.325	RB4	count=3704	discard=1/741B	RXpkt=3714	RXbytes=799611	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28682.825	LCID5	txNextAck=65	txNext=65	winPDU=0	txWinBytes=0	totalTxBytes=29627	poll=61
+PDCP	28682.825	RB4	count=3712	discard=1/741B	RXpkt=3722	RXbytes=802867	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28683.325	LCID5	txNextAck=74	txNext=75	winPDU=1	txWinBytes=407	totalTxBytes=33509	poll=71
+PDCP	28683.325	RB4	count=3722	discard=1/741B	RXpkt=3732	RXbytes=806603	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28683.825	LCID5	txNextAck=81	txNext=81	winPDU=0	txWinBytes=0	totalTxBytes=36407	poll=76
+PDCP	28683.825	RB4	count=3728	discard=1/741B	RXpkt=3738	RXbytes=809379	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28684.325	LCID5	txNextAck=87	txNext=87	winPDU=0	txWinBytes=0	totalTxBytes=39683	poll=82
+PDCP	28684.325	RB4	count=3734	discard=1/741B	RXpkt=3745	RXbytes=812896	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28684.353	LCID5	txNextAck=87	txNext=87	winPDU=0	txWinBytes=0	totalTxBytes=39683	poll=82
+PDCP	28684.353	RB4	count=3734	discard=1/741B	RXpkt=3745	RXbytes=812896	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28684.353	LCID5	txNextAck=87	txNext=87	winPDU=0	txWinBytes=0	totalTxBytes=39683	poll=82
+PDCP	28684.353	RB4	count=3734	discard=1/741B	RXpkt=3745	RXbytes=812896	WMpkt=1	WMbytes=407	state=LOW_ENABLED
+RLC	28684.544	LCID5	txNextAck=87	txNext=87	winPDU=0	txWinBytes=0	totalTxBytes=39683	poll=82
+PDCP	28684.544	RB4	count=3734	discard=1/741B	RXpkt=3746	RXbytes=814257	WMpkt=2	WMbytes=1768	state=LOW_ENABLED
+RLC	28684.545	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28684.545	RB4	count=3734	discard=1/741B	RXpkt=3747	RXbytes=814262	WMpkt=3	WMbytes=1773	state=LOW_ENABLED
+RLC	28684.825	LCID5	txNextAck=3	txNext=3	winPDU=1	txWinBytes=455	totalTxBytes=1944	poll=1
+PDCP	28684.825	RB4	count=3736	discard=1/741B	RXpkt=3749	RXbytes=816078	WMpkt=1	WMbytes=1361	state=LOW_ENABLED
+RLC	28685.325	LCID5	txNextAck=14	txNext=16	winPDU=2	txWinBytes=471	totalTxBytes=9006	poll=9
+PDCP	28685.325	RB4	count=3749	discard=1/741B	RXpkt=3760	RXbytes=821216	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28685.825	LCID5	txNextAck=18	txNext=18	winPDU=1	txWinBytes=186	totalTxBytes=9444	poll=10
+PDCP	28685.825	RB4	count=3751	discard=1/741B	RXpkt=3770	RXbytes=822963	WMpkt=7	WMbytes=1302	state=LOW_ENABLED
+RLC	28686.325	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=11062	poll=11
+PDCP	28686.325	RB4	count=3760	discard=1/741B	RXpkt=3778	RXbytes=824451	WMpkt=7	WMbytes=1302	state=LOW_ENABLED
+RLC	28686.825	LCID5	txNextAck=27	txNext=27	winPDU=0	txWinBytes=0	totalTxBytes=11062	poll=11
+PDCP	28686.825	RB4	count=3760	discard=1/741B	RXpkt=3786	RXbytes=825939	WMpkt=15	WMbytes=2790	state=LOW_ENABLED
+RLC	28687.325	LCID5	txNextAck=45	txNext=45	winPDU=0	txWinBytes=0	totalTxBytes=14575	poll=12
+PDCP	28687.325	RB4	count=3778	discard=1/741B	RXpkt=3795	RXbytes=827613	WMpkt=6	WMbytes=1116	state=LOW_ENABLED
+RLC	28687.825	LCID5	txNextAck=45	txNext=45	winPDU=0	txWinBytes=0	totalTxBytes=14575	poll=12
+PDCP	28687.825	RB4	count=3778	discard=1/741B	RXpkt=3803	RXbytes=829101	WMpkt=14	WMbytes=2604	state=LOW_ENABLED
+RLC	28688.325	LCID5	txNextAck=45	txNext=45	winPDU=1	txWinBytes=186	totalTxBytes=14584	poll=12
+PDCP	28688.325	RB4	count=3778	discard=1/741B	RXpkt=3811	RXbytes=830589	WMpkt=21	WMbytes=3906	state=LOW_ENABLED
+RLC	28688.825	LCID5	txNextAck=70	txNext=70	winPDU=0	txWinBytes=0	totalTxBytes=19481	poll=13
+PDCP	28688.825	RB4	count=3803	discard=1/741B	RXpkt=3820	RXbytes=832263	WMpkt=6	WMbytes=1116	state=LOW_ENABLED
+RLC	28689.325	LCID5	txNextAck=83	txNext=83	winPDU=0	txWinBytes=0	totalTxBytes=22038	poll=15
+PDCP	28689.325	RB4	count=3816	discard=1/741B	RXpkt=3828	RXbytes=833751	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28689.825	LCID5	txNextAck=86	txNext=86	winPDU=0	txWinBytes=0	totalTxBytes=22648	poll=17
+PDCP	28689.825	RB4	count=3819	discard=1/741B	RXpkt=3836	RXbytes=835239	WMpkt=6	WMbytes=1116	state=LOW_ENABLED
+RLC	28690.325	LCID5	txNextAck=102	txNext=102	winPDU=0	txWinBytes=0	totalTxBytes=25652	poll=18
+PDCP	28690.325	RB4	count=3835	discard=1/741B	RXpkt=3847	RXbytes=837087	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28690.825	LCID5	txNextAck=106	txNext=106	winPDU=0	txWinBytes=0	totalTxBytes=26531	poll=20
+PDCP	28690.825	RB4	count=3839	discard=1/741B	RXpkt=3857	RXbytes=839029	WMpkt=7	WMbytes=1302	state=LOW_ENABLED
+RLC	28691.325	LCID5	txNextAck=120	txNext=120	winPDU=0	txWinBytes=0	totalTxBytes=29387	poll=21
+PDCP	28691.325	RB4	count=3853	discard=1/741B	RXpkt=3865	RXbytes=840517	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28691.825	LCID5	txNextAck=120	txNext=122	winPDU=3	txWinBytes=558	totalTxBytes=29902	poll=23
+PDCP	28691.825	RB4	count=3855	discard=1/741B	RXpkt=3874	RXbytes=842191	WMpkt=7	WMbytes=1302	state=LOW_ENABLED
+RLC	28692.325	LCID5	txNextAck=138	txNext=138	winPDU=0	txWinBytes=0	totalTxBytes=33004	poll=27
+PDCP	28692.325	RB4	count=3871	discard=1/741B	RXpkt=3883	RXbytes=843780	WMpkt=1	WMbytes=186	state=LOW_ENABLED
+RLC	28692.825	LCID5	txNextAck=138	txNext=138	winPDU=0	txWinBytes=0	totalTxBytes=33004	poll=27
+PDCP	28692.825	RB4	count=3871	discard=1/741B	RXpkt=3891	RXbytes=845268	WMpkt=9	WMbytes=1674	state=LOW_ENABLED
+RLC	28693.325	LCID5	txNextAck=138	txNext=140	winPDU=3	txWinBytes=558	totalTxBytes=33619	poll=27
+PDCP	28693.325	RB4	count=3873	discard=1/741B	RXpkt=3899	RXbytes=846756	WMpkt=14	WMbytes=2604	state=LOW_ENABLED
+RLC	28693.825	LCID5	txNextAck=162	txNext=162	winPDU=0	txWinBytes=0	totalTxBytes=37828	poll=30
+PDCP	28693.825	RB4	count=3895	discard=1/741B	RXpkt=3908	RXbytes=848430	WMpkt=2	WMbytes=372	state=LOW_ENABLED
+RLC	28694.325	LCID5	txNextAck=167	txNext=167	winPDU=0	txWinBytes=0	totalTxBytes=38840	poll=31
+PDCP	28694.325	RB4	count=3900	discard=1/741B	RXpkt=3916	RXbytes=849918	WMpkt=5	WMbytes=930	state=LOW_ENABLED
+RLC	28694.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28694.825	RB4	count=3900	discard=1/741B	RXpkt=3925	RXbytes=851592	WMpkt=13	WMbytes=2418	state=LOW_ENABLED
+RLC	28695.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28695.325	RB4	count=3900	discard=1/741B	RXpkt=3935	RXbytes=853254	WMpkt=23	WMbytes=4080	state=LOW_ENABLED
+RLC	28695.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28695.825	RB4	count=3900	discard=1/741B	RXpkt=3944	RXbytes=855123	WMpkt=32	WMbytes=5949	state=LOW_ENABLED
+RLC	28696.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28696.325	RB4	count=3900	discard=1/741B	RXpkt=3954	RXbytes=857208	WMpkt=42	WMbytes=8034	state=LOW_ENABLED
+RLC	28696.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28696.825	RB4	count=3900	discard=1/741B	RXpkt=3962	RXbytes=858696	WMpkt=50	WMbytes=9522	state=LOW_ENABLED
+RLC	28697.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28697.325	RB4	count=3900	discard=1/741B	RXpkt=3971	RXbytes=860595	WMpkt=59	WMbytes=11421	state=LOW_ENABLED
+RLC	28697.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28697.825	RB4	count=3900	discard=1/741B	RXpkt=3980	RXbytes=862269	WMpkt=68	WMbytes=13095	state=LOW_ENABLED
+RLC	28698.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28698.325	RB4	count=3900	discard=1/741B	RXpkt=3988	RXbytes=863757	WMpkt=76	WMbytes=14583	state=LOW_ENABLED
+RLC	28698.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28698.825	RB4	count=3900	discard=1/741B	RXpkt=3996	RXbytes=865245	WMpkt=84	WMbytes=16071	state=LOW_ENABLED
+RLC	28699.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28699.325	RB4	count=3900	discard=1/741B	RXpkt=4006	RXbytes=867330	WMpkt=94	WMbytes=18156	state=LOW_ENABLED
+RLC	28699.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28699.825	RB4	count=3900	discard=1/741B	RXpkt=4014	RXbytes=868818	WMpkt=102	WMbytes=19644	state=LOW_ENABLED
+RLC	28700.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28700.325	RB4	count=3900	discard=1/741B	RXpkt=4023	RXbytes=870377	WMpkt=111	WMbytes=21203	state=LOW_ENABLED
+RLC	28700.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28700.825	RB4	count=3900	discard=1/741B	RXpkt=4032	RXbytes=872051	WMpkt=120	WMbytes=22877	state=LOW_ENABLED
+RLC	28701.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28701.325	RB4	count=3900	discard=1/741B	RXpkt=4040	RXbytes=873539	WMpkt=128	WMbytes=24365	state=LOW_ENABLED
+RLC	28701.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28701.825	RB4	count=3900	discard=1/741B	RXpkt=4048	RXbytes=875027	WMpkt=136	WMbytes=25853	state=LOW_ENABLED
+RLC	28702.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28702.325	RB4	count=3900	discard=1/741B	RXpkt=4057	RXbytes=876701	WMpkt=145	WMbytes=27527	state=LOW_ENABLED
+RLC	28702.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28702.825	RB4	count=3900	discard=1/741B	RXpkt=4065	RXbytes=878189	WMpkt=153	WMbytes=29015	state=LOW_ENABLED
+RLC	28703.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28703.325	RB4	count=3900	discard=1/741B	RXpkt=4074	RXbytes=880088	WMpkt=162	WMbytes=30914	state=LOW_ENABLED
+RLC	28703.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28703.825	RB4	count=3900	discard=1/741B	RXpkt=4083	RXbytes=881762	WMpkt=171	WMbytes=32588	state=LOW_ENABLED
+RLC	28704.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28704.325	RB4	count=3900	discard=1/741B	RXpkt=4091	RXbytes=883250	WMpkt=179	WMbytes=34076	state=LOW_ENABLED
+RLC	28704.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28704.825	RB4	count=3900	discard=1/741B	RXpkt=4099	RXbytes=884738	WMpkt=187	WMbytes=35564	state=LOW_ENABLED
+RLC	28705.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28705.325	RB4	count=3900	discard=1/741B	RXpkt=4109	RXbytes=886483	WMpkt=197	WMbytes=37309	state=LOW_ENABLED
+RLC	28705.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28705.825	RB4	count=3900	discard=1/741B	RXpkt=4117	RXbytes=887971	WMpkt=205	WMbytes=38797	state=LOW_ENABLED
+RLC	28706.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28706.325	RB4	count=3900	discard=1/741B	RXpkt=4125	RXbytes=889459	WMpkt=213	WMbytes=40285	state=LOW_ENABLED
+RLC	28706.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28706.825	RB4	count=3900	discard=1/741B	RXpkt=4134	RXbytes=891133	WMpkt=222	WMbytes=41959	state=LOW_ENABLED
+RLC	28707.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28707.325	RB4	count=3900	discard=1/741B	RXpkt=4142	RXbytes=892621	WMpkt=230	WMbytes=43447	state=LOW_ENABLED
+RLC	28707.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28707.825	RB4	count=3900	discard=1/741B	RXpkt=4150	RXbytes=894109	WMpkt=238	WMbytes=44935	state=LOW_ENABLED
+RLC	28708.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28708.325	RB4	count=3900	discard=1/741B	RXpkt=4158	RXbytes=895597	WMpkt=246	WMbytes=46423	state=LOW_ENABLED
+RLC	28708.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28708.825	RB4	count=3900	discard=1/741B	RXpkt=4167	RXbytes=897271	WMpkt=255	WMbytes=48097	state=LOW_ENABLED
+RLC	28709.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28709.325	RB4	count=3900	discard=1/741B	RXpkt=4175	RXbytes=898759	WMpkt=263	WMbytes=49585	state=LOW_ENABLED
+RLC	28709.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28709.825	RB4	count=3900	discard=1/741B	RXpkt=4184	RXbytes=900433	WMpkt=272	WMbytes=51259	state=LOW_ENABLED
+RLC	28710.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28710.325	RB4	count=3900	discard=1/741B	RXpkt=4193	RXbytes=901992	WMpkt=281	WMbytes=52818	state=LOW_ENABLED
+RLC	28710.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28710.825	RB4	count=3900	discard=1/741B	RXpkt=4202	RXbytes=903891	WMpkt=290	WMbytes=54717	state=LOW_ENABLED
+RLC	28711.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28711.325	RB4	count=3900	discard=1/741B	RXpkt=4211	RXbytes=905565	WMpkt=299	WMbytes=56391	state=LOW_ENABLED
+RLC	28711.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28711.825	RB4	count=3900	discard=1/741B	RXpkt=4219	RXbytes=907053	WMpkt=307	WMbytes=57879	state=LOW_ENABLED
+RLC	28712.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28712.325	RB4	count=3900	discard=1/741B	RXpkt=4227	RXbytes=908541	WMpkt=315	WMbytes=59367	state=LOW_ENABLED
+RLC	28712.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28712.825	RB4	count=3900	discard=1/741B	RXpkt=4236	RXbytes=910215	WMpkt=324	WMbytes=61041	state=LOW_ENABLED
+RLC	28713.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28713.325	RB4	count=3900	discard=1/741B	RXpkt=4244	RXbytes=911703	WMpkt=332	WMbytes=62529	state=LOW_ENABLED
+RLC	28713.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28713.825	RB4	count=3900	discard=1/741B	RXpkt=4252	RXbytes=913191	WMpkt=340	WMbytes=64017	state=LOW_ENABLED
+RLC	28714.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28714.325	RB4	count=3900	discard=1/741B	RXpkt=4261	RXbytes=914865	WMpkt=349	WMbytes=65691	state=LOW_ENABLED
+RLC	28714.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28714.825	RB4	count=3900	discard=1/741B	RXpkt=4269	RXbytes=916353	WMpkt=357	WMbytes=67179	state=LOW_ENABLED
+RLC	28715.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28715.325	RB4	count=3900	discard=1/741B	RXpkt=4278	RXbytes=917912	WMpkt=366	WMbytes=68738	state=LOW_ENABLED
+RLC	28715.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28715.825	RB4	count=3900	discard=1/741B	RXpkt=4286	RXbytes=919400	WMpkt=374	WMbytes=70226	state=LOW_ENABLED
+RLC	28716.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28716.325	RB4	count=3900	discard=1/741B	RXpkt=4295	RXbytes=921074	WMpkt=383	WMbytes=71900	state=LOW_ENABLED
+RLC	28716.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28716.825	RB4	count=3900	discard=1/741B	RXpkt=4303	RXbytes=922562	WMpkt=391	WMbytes=73388	state=LOW_ENABLED
+RLC	28717.325	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28717.325	RB4	count=3900	discard=1/741B	RXpkt=4312	RXbytes=924236	WMpkt=400	WMbytes=75062	state=LOW_ENABLED
+RLC	28717.825	LCID5	txNextAck=167	txNext=167	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28717.825	RB4	count=3900	discard=1/741B	RXpkt=4320	RXbytes=925724	WMpkt=408	WMbytes=76550	state=LOW_ENABLED
+RLC	28717.842	LCID5	txNextAck=167	txNext=168	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28717.842	RB4	count=3901	discard=1/741B	RXpkt=4320	RXbytes=925724	WMpkt=408	WMbytes=76550	state=LOW_ENABLED
+RLC	28717.842	LCID5	txNextAck=167	txNext=168	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28717.842	RB4	count=3901	discard=1/741B	RXpkt=4320	RXbytes=925724	WMpkt=408	WMbytes=76550	state=LOW_ENABLED
+RLC	28718.203	LCID5	txNextAck=167	txNext=168	winPDU=1	txWinBytes=186	totalTxBytes=38910	poll=31
+PDCP	28718.203	RB4	count=3901	discard=1/741B	RXpkt=4320	RXbytes=925724	WMpkt=408	WMbytes=76550	state=LOW_ENABLED
+PDCP	28718.367	RB4	count=0	discard=0/0B	RXpkt=0	RXbytes=0	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28718.825	RB4	count=414	discard=0/0B	RXpkt=416	RXbytes=80821	WMpkt=2	WMbytes=967	state=LOW_ENABLED
+PDCP	28719.325	RB4	count=425	discard=0/0B	RXpkt=425	RXbytes=84484	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28719.825	RB4	count=433	discard=0/0B	RXpkt=433	RXbytes=87406	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28720.325	RB4	count=442	discard=0/0B	RXpkt=442	RXbytes=90738	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28720.825	RB4	count=442	discard=0/0B	RXpkt=442	RXbytes=90738	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28721.325	RB4	count=442	discard=0/0B	RXpkt=442	RXbytes=90738	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28721.825	RB4	count=443	discard=0/0B	RXpkt=443	RXbytes=90841	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28722.325	RB4	count=446	discard=0/0B	RXpkt=446	RXbytes=91313	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28722.825	RB4	count=446	discard=0/0B	RXpkt=446	RXbytes=91313	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28723.325	RB4	count=446	discard=0/0B	RXpkt=446	RXbytes=91313	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28723.825	RB4	count=447	discard=0/0B	RXpkt=447	RXbytes=91386	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+PDCP	28724.141	RB4	count=449	discard=0/0B	RXpkt=449	RXbytes=91512	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28724.582	LCID5	txNextAck=0	txNext=0	winPDU=0	txWinBytes=0	totalTxBytes=0	poll=0
+PDCP	28724.582	RB5	count=0	discard=0/0B	RXpkt=0	RXbytes=0	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28724.825	LCID5	txNextAck=7	txNext=7	winPDU=0	txWinBytes=0	totalTxBytes=2898	poll=2
+PDCP	28724.825	RB5	count=7	discard=0/0B	RXpkt=7	RXbytes=2811	WMpkt=0	WMbytes=0	state=LOW_ENABLED
+RLC	28724.893	LCID5	txNextAck=7	txNext=7	winPDU=0	txWinBytes=0	totalTxBytes=2898	poll=2
+PDCP	28724.893	RB5	count=7	discard=0/0B	RXpkt=7	RXbytes=2811	WMpkt=0	WMbytes=0	state=LOW_ENABLED

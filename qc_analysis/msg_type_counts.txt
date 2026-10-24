@@ -1,0 +1,50 @@
+log.txt 窗口 07:52:26-07:58:44（设备UTC），总报文 635772 条，49 种消息
+0xB8C9	316449	NR5G LL1 FW RX Control AGC Length
+0xB8A1	112424	NR5G MAC Symbol Arbitration Length
+0xB888	67511	NR5G MAC PDSCH Stats Length
+0xB8D1	32512	NR5G LL1 FW TX IU RF Length
+0xB883	23032	NR5G MAC UL Physical Channel Schedule Report Length
+0xB8D8	20432	NR5G LL1 LOG SERVING SNR Length
+0xB885	14437	NR5G MAC DCI Info Length
+0xB89B	10990	NR5G MAC UCI Information Length
+0xB887	6807	NR5G MAC PDSCH Status Length
+0xB8D2	6600	NR5G LL1 FW MAC TX IU Power Length
+0xB857	4291	NR5G L2 DL DATA PDU Length
+0xB896	3719	NR5G MAC UCI Payload Information Length
+0xB8A7	2486	NR5G MAC CSF Report Length
+0xB97F	2213	NR5G ML1 Searcher Measurement Database Update Ext Length
+0xB84D	1530	NR5G RLC DL Stats Length
+0xB842	1526	NR5G PDCP DL Rbs Stats Length
+0xB886	966	NR5G MAC DL TB Report Length
+0xB868	854	NR5G RLC UL Stats Length
+0xB860	806	NR5G PDCP UL Stats Length
+0xB863	782	NR5G PDCP UL ROHC Stats Length
+0xB959	666	NR5G ML1 RLM Stats Length
+0xB84E	647	NR5G RLC DL Status PDU Length
+0xB870	588	NR5G L2 UL Data Pdu Length
+0xB872	580	NR5G L2 UL TB Length
+0xB873	578	NR5G L2 UL BSR Length
+0xB869	487	NR5G RLC UL Status PDU Length
+0xB890	398	NR5G MAC CDRX Events Info Length
+0xB89C	272	NR5G MAC Flow Control Length
+0xB840	266	NR5G PDCP DL Data Pdu Length
+0xB8AE	249	NR5G MAC Skip UL TX Length
+0xB8B5	233	NR5G MAC Tx Pwr Dist Stats LOG Length
+0xB96F	82	NR5G ML1 Searcher Conn Eval Length
+0xB822	66	NR5G RRC MIB Info Length
+0xB80C	45	NR5G NAS MM5G State Length
+0xB88A	44	NR5G MAC RACH Attempt Length
+0xB98F	39	NR5G ML1 Antenna Switch Diversity Length
+0xB825	32	NR5G RRC Configuration Info Length
+0xB871	24	NR5G L2 UL Config Length
+0xB9A7	23	NR5G ML1 DLM2 CA Metrics Request Length
+0xB844	20	NR5G PDCP DL SRB PDU Length
+0xB889	19	NR5G MAC RACH Trigger Length
+0xB84B	16	NR5G L2 DL Config Length
+0xB823	10	NR5G RRC Serving Cell Info Length
+0xB861	8	NR5G PDCP UL Control Pdu Length
+0xB841	7	NR5G PDCP DL Control Pdu Length
+0xB970	2	NR5G ML1 Searcher Idle S Criteria Length
+0xB950	2	NR5G ML1 DL Common Config Length
+0xB80D	1	NR5G NAS MM5G Service Request Length
+0xB96D	1	NR5G ML1 Searcher ACQ Config And Response Length

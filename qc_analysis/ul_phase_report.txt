@@ -1,0 +1,29 @@
+========== 上下行速率测试指标聚合报告 ==========
+窗口: 01:18:06.400 ~ 01:18:16.501324 (10.10 s), 解析报文 9837 条
+服务小区: PCI=404
+
+--- 上行 ---
+PUSCH TB 字节合计: 5017011 bytes -> 3.97 Mbps
+PDCP 上行接收(应用层): 3.75 Mbps
+UL MCS: avg 7.69, min 0, max 30
+UL 调制方式分布: 256QAM=3862
+UL RB 数: avg 161.0, max 259
+UL TB Size: avg 1299 bytes, max 2241
+UL TX Mode(层数): SISO=3862
+UL HARQ 重传率: 236/3862 = 6.11%
+UL TX Power 分布: <6dBm 91.9%, 6-12dBm 0.0%, 12-18dBm 0.5%, >18dBm 7.6%
+
+--- 下行 ---
+DL TB 字节合计(L2): 378347 bytes -> 0.30 Mbps
+PDSCH CRC Pass TB 字节: 0.38 Mbps
+PDCP 下行字节: 0.09 Mbps
+DL MCS: avg 3.46, min 0, max 30 -> 调制 QPSK
+DL RI(层数): avg 1.19
+DL CQI: avg 9.48
+DL BLER: 182/3021 = 6.02%
+DL HARQ 重传率: 21.98%
+DL HARQ ACK 率(UCI 反馈): 2843/2842 = 100.00%
+
+--- 射频 ---
+SINR(SSB): 平均 -2.16 dB, 天线0..3: RX0=-1.21 RX1=-2.24 RX2=-2.21 RX3=-2.99 
+服务小区 RSRP: -106.8 dBm, RSRQ: -12.6 dB
